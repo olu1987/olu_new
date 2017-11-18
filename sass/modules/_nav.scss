@@ -57,3 +57,17 @@
     }
   }
 }
+
+.fixed-nav{
+  position: absolute;
+  background: rgba(225, 225, 226, 0.55);
+  width:100%;
+  border-radius: 0;
+  z-index: 30;
+  top:0;
+  padding: 20px;
+  a{
+    color: red;
+  }
+
+}
