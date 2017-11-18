@@ -265,14 +265,17 @@ body {
     width: 200px;
     transition: all ease-in-out 300ms;
     text-transform: uppercase; }
+  .tile img {
+    width: 50%; }
   .tile.vantworks img {
-    margin: 0 auto; }
-  .tile.tvplayer img {
     margin: 0 auto;
-    width: 90%; }
+    width: 40%; }
+  .tile.tvplayer img {
+    margin: 0 auto; }
   .tile.leshia img {
-    margin: 5px auto;
-    width: 70%; }
+    margin: 5px auto; }
+  .tile.covervidz img {
+    border-radius: 10px; }
 
 .nav-toggle {
   position: fixed;
@@ -317,15 +320,19 @@ body {
           text-decoration: none; }
 
 .fixed-nav {
-  position: absolute;
-  background: rgba(225, 225, 226, 0.55);
+  position: fixed;
+  background: rgba(68, 68, 68, 0.67);
   width: 100%;
   border-radius: 0;
   z-index: 30;
   top: 0;
-  padding: 20px; }
+  padding: 20px;
+  transition: 300ms all ease-in-out; }
+  .fixed-nav.active {
+    background: #444444; }
   .fixed-nav a {
-    color: red; }
+    color: #ffffff;
+    padding-right: 10px; }
 
 @media (max-width: 1520px) {
   .container {

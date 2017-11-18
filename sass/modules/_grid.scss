@@ -31,23 +31,32 @@
     text-transform: uppercase;
   }
 
+  img{
+    width:50%;
+  }
+
   &.vantworks{
     img{
       margin: 0 auto;
+      width:40%;
     }
   }
 
   &.tvplayer{
     img{
       margin: 0 auto;
-      width:90%;
     }
   }
 
   &.leshia{
     img{
       margin: 5px auto;
-      width:70%;
+
+    }
+  }
+  &.covervidz{
+    img{
+      border-radius: 10px;
     }
   }
 }

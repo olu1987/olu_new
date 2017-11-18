@@ -59,15 +59,20 @@
 }
 
 .fixed-nav{
-  position: absolute;
-  background: rgba(225, 225, 226, 0.55);
+  position: fixed;
+  background: rgba(68, 68, 68, 0.67);
   width:100%;
   border-radius: 0;
   z-index: 30;
   top:0;
   padding: 20px;
+  transition: 300ms all ease-in-out;
+  &.active{
+    background: rgba(68, 68, 68, 1.0);;
+  }
   a{
-    color: red;
+    color: #ffffff;
+    padding-right: 10px;
   }
 
 }
