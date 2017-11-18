@@ -1,0 +1,24 @@
+//Responsive styles
+
+@media(max-width: 1520px){
+  .container{
+    width:100%;
+  }
+}
+@media(min-width: 767px){
+  .bodhan-devices{
+    margin-left: -23px;
+  }
+  .covervidz-devices{
+    margin-left: -42px;
+  }
+  .lnt-devices{
+    margin-left: 50px;
+  }
+}
+
+@media(max-width: 767px){
+  .nav-toggle.active {
+    right: 255px;
+  }
+}
