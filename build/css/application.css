@@ -238,9 +238,33 @@ body {
   top: 46vh; }
 
 .tile {
-  height: 280px;
+  height: 320px;
   background: #f1f1f1;
-  border: 1px solid #d2d1d1; }
+  border: 1px solid #d2d1d1;
+  padding: 0;
+  overflow: hidden;
+  opacity: 0.8;
+  transition: all ease-in-out 300ms;
+  cursor: pointer; }
+  .tile:hover {
+    opacity: 1; }
+    .tile:hover .title-wrap {
+      left: 0; }
+  .tile .title-wrap {
+    position: absolute;
+    top: 0;
+    z-index: 21;
+    color: #fff;
+    height: 100%;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.68);
+    left: -150px;
+    width: 150px;
+    transition: all ease-in-out 300ms;
+    text-transform: uppercase; }
+  .tile.vantworks img {
+    margin: 0 auto;
+    margin-top: 49px; }
 
 .nav-toggle {
   position: fixed;
