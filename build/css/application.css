@@ -238,12 +238,11 @@ body {
   top: 46vh; }
 
 .tile {
-  height: 320px;
+  height: 340px;
   background: #f1f1f1;
-  border: 1px solid #d2d1d1;
   padding: 0;
   overflow: hidden;
-  opacity: 0.8;
+  opacity: 1;
   transition: all ease-in-out 300ms;
   cursor: pointer;
   display: flex;
@@ -252,30 +251,42 @@ body {
   .tile:hover {
     opacity: 1; }
     .tile:hover .title-wrap {
-      left: 0; }
+      opacity: 1; }
   .tile .title-wrap {
     position: absolute;
     top: 0;
     z-index: 21;
-    color: #fff;
-    height: 100%;
+    color: #444;
     padding: 20px;
-    background: rgba(0, 0, 0, 0.68);
-    left: -200px;
-    width: 200px;
-    transition: all ease-in-out 300ms;
-    text-transform: uppercase; }
+    background: rgba(255, 255, 255, 0.84);
+    width: 100%;
+    height: 100%;
+    transition: all ease-in-out 200ms;
+    text-align: center;
+    opacity: 0;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center; }
   .tile img {
     width: 50%; }
-  .tile.vantworks img {
-    margin: 0 auto;
-    width: 40%; }
+  .tile.vantworks {
+    background: #fdb5ac; }
+    .tile.vantworks img {
+      margin: 0 auto;
+      width: 40%; }
+  .tile.lnt {
+    background: #ffffff; }
   .tile.tvplayer img {
     margin: 0 auto; }
-  .tile.leshia img {
-    margin: 5px auto; }
-  .tile.covervidz img {
-    border-radius: 10px; }
+  .tile.leshia {
+    background: rgba(255, 255, 0, 0.42); }
+    .tile.leshia img {
+      margin: 5px auto; }
+  .tile.covervidz {
+    background: #4a2875; }
+    .tile.covervidz img {
+      border-radius: 10px; }
 
 .nav-toggle {
   position: fixed;

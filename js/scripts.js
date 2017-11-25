@@ -30,7 +30,7 @@ $( document ).ready(function() {
             return;
         }
 
-        var graphRow = document.querySelector(".skills");
+        var graphRow = document.querySelector(".portfolio");
         var navFixed = document.querySelector(".fixed-nav");
 
         window.addEventListener('scroll', function () {
@@ -94,8 +94,25 @@ $( document ).ready(function() {
 
     header.parallax(
         {imageSrc: 'img/olu-header.jpg', position:'right',
-
     });
+    
+    var tileModule = {
+        init:function () {
+            this.unbinding;
+            this.binding;
+        },
+        binding:function () {
+
+        },
+        tiles:document.querySelectorAll('skill-list li'),
+        unbinding:function () {
+            
+        },
+        fadeInStars:function () {
+           var stars = this.querySelectorAll('.fa-star');
+
+        }
+    }
 
 
 });
