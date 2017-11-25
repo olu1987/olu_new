@@ -1,3 +1,8 @@
+.portfolio{
+  .col-md-12{
+    padding: 0;
+  }
+}
 .tile{
   height: 340px;
   background: #f1f1f1;
@@ -71,3 +76,57 @@
     }
   }
 }
+
+.grid-images{
+  .row{
+    margin-top: 15px;
+  }
+  .image-1{
+    height: 330px;
+    background: url(../../img/lnt-one.jpg);
+    background-size: cover;
+    background-position: right;
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .image-2{
+    height: 330px;
+    background: url(../../img/lnt-two.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  .image-3{
+    height: 330px;
+    background: url(../../img/lnt-three.jpg);
+    background-size: cover;
+    background-position: -62px;
+    margin-left: -15px;
+    margin-right: -15px;
+
+  }
+  .image-4{
+    height: 330px;
+    background: url(../../img/lnt-four.jpg);
+    background-size: cover;
+    background-position: -275px;
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .image-5{
+    height: 330px;
+    background: url(../../img/lnt-five.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .image-6{
+    height: 330px;
+    background: url(../../img/lnt-six.jpg);
+    background-size: cover;
+    background-position: -171px;
+    margin-left: -15px;
+    margin-right: -15px;
+
+  }
+}
+
