@@ -21,4 +21,12 @@
   .nav-toggle.active {
     right: 255px;
   }
+  .grid-images{
+    .col-md-6,.col-md-3{
+      padding: 0;
+      & > div{
+        margin: 0;
+      }
+    }
+  }
 }

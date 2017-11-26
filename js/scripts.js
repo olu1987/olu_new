@@ -32,7 +32,7 @@ $( document ).ready(function() {
 
         var skillRow = document.querySelector(".skills-wrap");
 
-        window.addEventListener('scroll', function () {
+        skillRow ? window.addEventListener('scroll', function () {
             var distance = skillRow.getBoundingClientRect().top;
             console.log(distance);
             if(distance < 320){
@@ -41,7 +41,7 @@ $( document ).ready(function() {
             if(distance > 320) {
                 removeClass(skillRow, 'active')
             }
-        })
+        }):false;
 
     }();
 

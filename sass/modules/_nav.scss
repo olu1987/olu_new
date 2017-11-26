@@ -6,10 +6,10 @@
   opacity: 0.7;
   cursor: pointer;
   transition: all ease-in-out 300ms;
-  color:#ffffff;
+  color:gray;
 
   &:hover{
-    color: #ffffff;
+    opacity: 1;
   }
 
   &.active{
@@ -60,7 +60,7 @@
 
 .fixed-nav{
   position: fixed;
-  background: rgba(68, 68, 68, 0.67);
+  background: rgba(255, 255, 255, 0.67);
   width:100%;
   border-radius: 0;
   z-index: 30;
@@ -71,7 +71,7 @@
     background: rgba(68, 68, 68, 1.0);;
   }
   a{
-    color: #ffffff;
+    color: #000;
     padding-right: 10px;
   }
 

@@ -222,17 +222,20 @@ body {
     color: #12456f; }
 
 .lnt-bg-blue {
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#207cca+-2,2989d8+-1,1e5799+0,2989d8+0,ffffff+0,b8c9d3+100 */
-  background: #207cca;
-  /* Old browsers */
-  background: -moz-linear-gradient(top, #207cca -2%, #2989d8 -1%, #1e5799 0%, #2989d8 0%, #ffffff 0%, #b8c9d3 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #207cca -2%, #2989d8 -1%, #1e5799 0%, #2989d8 0%, #ffffff 0%, #b8c9d3 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #207cca -2%, #2989d8 -1%, #1e5799 0%, #2989d8 0%, #ffffff 0%, #b8c9d3 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#207cca', endColorstr='#b8c9d3',GradientType=0 );
-  /* IE6-9 */ }
+  background: -moz-linear-gradient(90deg, #b8c9d3 0%, white 100%);
+  /* ff3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #b8c9d3));
+  /* safari4+,chrome */
+  background: -webkit-linear-gradient(90deg, #b8c9d3 0%, white 100%);
+  /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(90deg, #b8c9d3 0%, white 100%);
+  /* opera 11.10+ */
+  background: -ms-linear-gradient(90deg, #b8c9d3 0%, white 100%);
+  /* ie10+ */
+  background: linear-gradient(0deg, #b8c9d3 0%, white 100%);
+  /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#b8c9d3',GradientType=0 );
+  /* ie6-9 */ }
 
 .footer {
   height: 150px;
@@ -255,7 +258,6 @@ body {
 
 .tile {
   height: 340px;
-  background: #f1f1f1;
   padding: 0;
   overflow: hidden;
   opacity: 1;
@@ -303,6 +305,10 @@ body {
     background: #4a2875; }
     .tile.covervidz img {
       border-radius: 10px; }
+  .tile.tech {
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.28);
+    cursor: default; }
 
 .grid-images .row {
   margin-top: 15px; }
@@ -414,9 +420,16 @@ body {
   padding-left: 0; }
 
 .logo-text {
-  max-width: 600px;
   margin: 60px auto 100px;
   display: block; }
+
+.overlay-row {
+  height: 300px;
+  margin-top: -300px; }
+
+.task-description {
+  padding-top: 100px;
+  padding-bottom: 100px; }
 
 .nav-toggle {
   position: fixed;
@@ -426,9 +439,9 @@ body {
   opacity: 0.7;
   cursor: pointer;
   transition: all ease-in-out 300ms;
-  color: #ffffff; }
+  color: gray; }
   .nav-toggle:hover {
-    color: #ffffff; }
+    opacity: 1; }
   .nav-toggle.active {
     right: 257px; }
   .nav-toggle img {
@@ -462,7 +475,7 @@ body {
 
 .fixed-nav {
   position: fixed;
-  background: rgba(68, 68, 68, 0.67);
+  background: rgba(255, 255, 255, 0.67);
   width: 100%;
   border-radius: 0;
   z-index: 30;
@@ -472,7 +485,7 @@ body {
   .fixed-nav.active {
     background: #444444; }
   .fixed-nav a {
-    color: #ffffff;
+    color: #000;
     padding-right: 10px; }
 
 @media (max-width: 1520px) {
@@ -489,6 +502,10 @@ body {
 
 @media (max-width: 767px) {
   .nav-toggle.active {
-    right: 255px; } }
+    right: 255px; }
+  .grid-images .col-md-6, .grid-images .col-md-3 {
+    padding: 0; }
+    .grid-images .col-md-6 > div, .grid-images .col-md-3 > div {
+      margin: 0; } }
 
 /*# sourceMappingURL=application.css.map */
