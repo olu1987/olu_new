@@ -83,7 +83,7 @@
 
                         </div>
                     </a>
-                    <div class="tile col-md-4 col-sm-6 leshia">
+                    <a href="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia">
                         <img class="img-responsive" src="img/LT-icon.png"/>
                         <div class="title-wrap">
                             <h3>leshia Thomas<br>
@@ -93,8 +93,8 @@
                             </h3>
 
                         </div>
-                    </div>
-                    <div class="tile col-md-4 col-sm-6 tvplayer">
+                    </a>
+                    <a href="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer">
                         <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                         <div class="title-wrap">
                             <h3>Tvplayer<br>
@@ -104,8 +104,8 @@
                             </h3>
 
                         </div>
-                    </div>
-                    <div class="tile col-md-4 col-sm-6 tvplayer two">
+                    </a>
+                    <a href="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two">
                         <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                         <div class="title-wrap">
                             <h3>Tvplayer<br>
@@ -113,8 +113,8 @@
                             </h3>
 
                         </div>
-                    </div>
-                    <div class="tile col-md-4 col-sm-6 vantworks">
+                    </a>
+                    <a href="vantworks.php" class="tile col-md-4 col-sm-6 vantworks">
                         <img class="img-responsive" src="img/vantworks-logo.png"/>
                         <div class="title-wrap">
                             <h3>Vantworks
@@ -124,8 +124,8 @@
                                 </small>
                             </h3>
                         </div>
-                    </div>
-                    <div class="tile col-md-4 col-sm-6 covervidz">
+                    </a>
+                    <a href="covervidz.php" class="tile col-md-4 col-sm-6 covervidz">
                        <img class="img-responsive" src="img/covervidz-mic.jpg"/>
                         <div class="title-wrap">
                             <h3>
@@ -135,7 +135,7 @@
                                 </small>
                             </h3>
                         </div>
-                    </div>
+                    </a>
                 </div>
             </div>
     </div>
