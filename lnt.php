@@ -4,7 +4,7 @@
 <div class="container grid-images lnt-bg-blue">
     <div class="row pt-20">
         <div class="col-md-8 col-md-offset-2">
-            <img class="img-responsive" src="img/lnt-text.png"/>
+            <img class="img-responsive lnt-header-logo" src="img/lnt-text.png"/>
         </div>
     </div>
     <div class="row">
@@ -60,8 +60,8 @@
     <div class="row portfolio">
         <div class="col-md-12">
             <div class="tile col-md-4 col-sm-12 tech">
-                <h1>Techonology used</h1>
-                <ul class="text-uppercase">
+                <h1>Techonology used</h1><br>
+                <ul class="list-inline text-uppercase">
                     <li>htm5</li>
                     <li>css3</li>
                     <li>sass</li>

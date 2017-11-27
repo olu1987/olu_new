@@ -78,7 +78,14 @@
     background: #ffffff;
     border: 1px solid rgba(0, 0, 0, 0.28);
     cursor: default;
+    display: block;
+    text-align: center;
+    padding-top: 80px;
   }
+}
+
+.leshia.grid-images .row{
+  margin-top: 0;
 }
 
 .grid-images{

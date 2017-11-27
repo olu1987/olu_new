@@ -10,19 +10,29 @@
         </div>
         <div class="row">
             <div class="col-sm-8 col-sm-offset-2">
-                <img class="img-responsive" src="img/vantworks-lander-1.jpg"></img>
+                <img class="img-responsive" src="img/vantworks-lander-1.jpg"/>
+            </div>
+        </div>
+        <div class="row task-description">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="text-uppercase">the task</h2>
+                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
+                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
+                    the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
+                    because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
+                    consequences that</p>
             </div>
         </div>
         <div class="row">
             <div class="col-sm-8 col-sm-offset-2">
-                <img class="img-responsive" src="img/vantworks-lander-2.jpg"></img>
+                <img class="img-responsive" src="img/vantworks-lander-2.jpg"/>
             </div>
         </div>
     </div>
     <div class="container vantworks-bg">
         <div class="row task-description">
-            <div class="col-md-10 col-md-offset-1">
-                <h2 class="text-uppercase">the task</h2>
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="text-uppercase">my approach</h2>
                 <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
                     will give you a complete account of the system, and expound the actual teachings of the great explorer of
                     the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,

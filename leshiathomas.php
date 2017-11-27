@@ -1,48 +1,23 @@
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->
-    <div class="container grid-images lnt-bg-blue">
-        <div class="row pt-20">
+    <div class="container grid-images leshia">
+        <div class="row pt-20 leshia-bg">
             <div class="col-md-8 col-md-offset-2">
-                <img class="img-responsive" src="img/lnt-text.png"/>
+                <img class="img-responsive leshia-header-text" src="img/leshia-top-text.png"/>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-3 col-sm-3">
-                <div class="image-1">
-
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-6">
-                <div class="image-2">
-
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-3">
-                <div class="image-3">
-
-                </div>
-            </div>
+            <img class="img-responsive" src="img/leshia-first-page.jpg"/>
         </div>
         <div class="row">
-            <div class="col-md-3 col-sm-3">
-                <div class="image-4">
-
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-6">
-                <div class="image-5">
-
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-3">
-                <div class="image-6">
-
-                </div>
-            </div>
+            <img class="img-responsive" src="img/leshia-second-page.jpg"/>
+        </div>
+        <div class="row">
+            <img class="img-responsive" src="img/leshia-third-page.jpg"/>
         </div>
     </div>
-    <div class="container lnt-bg-blue">
+    <div class="container leshia-bg">
         <div class="row task-description">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the task</h2>
@@ -61,7 +36,7 @@
             <div class="col-md-12">
                 <div class="tile col-md-4 col-sm-12 tech">
                     <h1>Techonology used</h1>
-                    <ul class="text-uppercase">
+                    <ul class="list-inline text-uppercase">
                         <li>htm5</li>
                         <li>css3</li>
                         <li>sass</li>
