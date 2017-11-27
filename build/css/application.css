@@ -224,7 +224,7 @@ body {
     background: rgba(0, 0, 0, 0.29);
     top: 0; }
 
-.lnt-header-logo {
+.lnt-header-logo, .tvp-header {
   margin-top: 100px;
   margin-bottom: 100px; }
 
@@ -285,6 +285,25 @@ body {
   background: linear-gradient(0deg, #fce3aa 0%, white 100%);
   /* w3c */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#fce3aa',GradientType=0 );
+  /* ie6-9 */ }
+
+.leshia-solid-bg {
+  background: #fce2a9; }
+
+.tvp-red-bg {
+  background: -moz-linear-gradient(90deg, #fc4348 0%, white 100%);
+  /* ff3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #fc4348));
+  /* safari4+,chrome */
+  background: -webkit-linear-gradient(90deg, #fc4348 0%, white 100%);
+  /* safari5.1+,chrome10+ */
+  background: -o-linear-gradient(90deg, #fc4348 0%, white 100%);
+  /* opera 11.10+ */
+  background: -ms-linear-gradient(90deg, #fc4348 0%, white 100%);
+  /* ie10+ */
+  background: linear-gradient(0deg, #fc4348 0%, white 100%);
+  /* w3c */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#fc4348',GradientType=0 );
   /* ie6-9 */ }
 
 .footer {

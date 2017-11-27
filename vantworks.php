@@ -48,7 +48,7 @@
             <div class="col-md-12">
                 <div class="tile col-md-4 col-sm-12 tech">
                     <h1>Techonology used</h1>
-                    <ul class="text-uppercase">
+                    <ul class="text-uppercase list-inline">
                         <li>htm5</li>
                         <li>css3</li>
                         <li>sass</li>

@@ -13,7 +13,7 @@
         <div class="row">
             <img class="img-responsive" src="img/leshia-second-page.jpg"/>
         </div>
-        <div class="row">
+        <div class="row pb-50 leshia-solid-bg">
             <img class="img-responsive" src="img/leshia-third-page.jpg"/>
         </div>
     </div>

@@ -1,48 +1,19 @@
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->
-    <div class="container grid-images lnt-bg-blue">
+    <div class="container grid-images  tvp-red-bg">
         <div class="row pt-20">
-            <div class="col-md-8 col-md-offset-2">
-                <img class="img-responsive" src="img/lnt-text.png"/>
+            <div class="col-md-6 col-md-offset-3 tvp-header">
+                <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-3 col-sm-3">
-                <div class="image-1">
-
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-6">
-                <div class="image-2">
-
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-3">
-                <div class="image-3">
-
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-3 col-sm-3">
-                <div class="image-4">
-
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-6">
-                <div class="image-5">
-
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-3">
-                <div class="image-6">
-
-                </div>
+            <div class="col-md-10 col-md-offset-1">
+                <img class="img-responsive" src="img/tvp-tvguide-image.jpg"/>
             </div>
         </div>
     </div>
-    <div class="container lnt-bg-blue">
+    <div class="container tvp-red-bg">
         <div class="row task-description">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the task</h2>
@@ -61,7 +32,7 @@
             <div class="col-md-12">
                 <div class="tile col-md-4 col-sm-12 tech">
                     <h1>Techonology used</h1>
-                    <ul class="text-uppercase">
+                    <ul class="text-uppercase list-inline">
                         <li>htm5</li>
                         <li>css3</li>
                         <li>sass</li>
