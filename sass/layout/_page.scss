@@ -63,6 +63,25 @@
   background: #FE494E;
 }
 
+.covervidz-bg{
+  background: rgba(143,2,34,1);
+  background: -moz-linear-gradient(top, rgba(143,2,34,1) 0%, rgba(255,255,255,1) 0%, rgba(93,63,125,1) 34%, rgba(93,63,125,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(143,2,34,1)), color-stop(0%, rgba(255,255,255,1)), color-stop(34%, rgba(93,63,125,1)), color-stop(100%, rgba(93,63,125,1)));
+  background: -webkit-linear-gradient(top, rgba(143,2,34,1) 0%, rgba(255,255,255,1) 0%, rgba(93,63,125,1) 34%, rgba(93,63,125,1) 100%);
+  background: -o-linear-gradient(top, rgba(143,2,34,1) 0%, rgba(255,255,255,1) 0%, rgba(93,63,125,1) 34%, rgba(93,63,125,1) 100%);
+  background: -ms-linear-gradient(top, rgba(143,2,34,1) 0%, rgba(255,255,255,1) 0%, rgba(93,63,125,1) 34%, rgba(93,63,125,1) 100%);
+  background: linear-gradient(to bottom, rgba(143,2,34,1) 0%, rgba(255,255,255,1) 0%, rgba(93,63,125,1) 34%, rgba(93,63,125,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8f0222', endColorstr='#5d3f7d', GradientType=0 );
+}
+
+.covervidz-solid-bg{
+  background: #5d3f7d;
+}
+
+.covervidz-bg,.covervidz-solid-bg{
+  color: #ffffff;
+}
+
 .tvp-red-bg, .tvp-solid-bg{
   color: #ffffff;
   p,h2{

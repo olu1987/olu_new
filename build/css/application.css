@@ -315,6 +315,22 @@ a:hover, a:focus {
 .tvp-solid-bg {
   background: #FE494E; }
 
+.covervidz-bg {
+  background: #8f0222;
+  background: -moz-linear-gradient(top, #8f0222 0%, white 0%, #5d3f7d 34%, #5d3f7d 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, #8f0222), color-stop(0%, white), color-stop(34%, #5d3f7d), color-stop(100%, #5d3f7d));
+  background: -webkit-linear-gradient(top, #8f0222 0%, white 0%, #5d3f7d 34%, #5d3f7d 100%);
+  background: -o-linear-gradient(top, #8f0222 0%, white 0%, #5d3f7d 34%, #5d3f7d 100%);
+  background: -ms-linear-gradient(top, #8f0222 0%, white 0%, #5d3f7d 34%, #5d3f7d 100%);
+  background: linear-gradient(to bottom, #8f0222 0%, white 0%, #5d3f7d 34%, #5d3f7d 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8f0222', endColorstr='#5d3f7d', GradientType=0 ); }
+
+.covervidz-solid-bg {
+  background: #5d3f7d; }
+
+.covervidz-bg, .covervidz-solid-bg {
+  color: #ffffff; }
+
 .tvp-red-bg, .tvp-solid-bg {
   color: #ffffff; }
   .tvp-red-bg p, .tvp-red-bg h2, .tvp-solid-bg p, .tvp-solid-bg h2 {
