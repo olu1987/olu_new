@@ -5,7 +5,7 @@
         <div class="row pt-20 leshia-bg text-center pb-40">
             <div class="col-md-8 col-md-offset-2">
                 <img class="img-responsive leshia-header-text" src="img/leshia-top-text.png"/>
-                <a target="_blank" class="site-link" href="https://tvplayer.com">www.tvplayer.com</a>
+                <a target="_blank" class="site-link" href="http://leshiathomas.com">www.leshiathomas.com</a>
             </div>
         </div>
         <div class="row pb-50 text-center leshia-solid-bg">
@@ -68,28 +68,36 @@
                         <li>paypal api</li>
                     </ul>
                 </div>
-                <div class="tile col-md-4 col-sm-6 leshia">
-                    <img class="img-responsive" src="img/LT-icon.png"/>
+                <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
+                    <img class="img-responsive" src="img/lnt-text.png"/>
                     <div class="title-wrap">
-                        <h3>leshia Thomas<br>
+                        <h3>
                             <small>
-                                digital designer portfolio website
+                                previous project
+                            </small><br>
+                            lnt london<br>
+                            <small>
+                                ecommerce fashion website build
                             </small>
                         </h3>
 
                     </div>
-                </div>
-                <div class="tile col-md-4 col-sm-6 tvplayer">
+                </a>
+                <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
                     <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                     <div class="title-wrap">
-                        <h3>Tvplayer<br>
+                        <h3>
+                            <small>
+                                next project
+                            </small><br>
+                            Tvplayer<br>
                             <small>
                                 lazy-loading javascript tvguide
                             </small>
                         </h3>
 
                     </div>
-                </div>
+                </a>
             </div>
         </div>
     </div>

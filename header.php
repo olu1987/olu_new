@@ -26,19 +26,10 @@
 <div class="fade-out-container hidden">
 
 </div>
-<div class="navbar fixed-nav hidden-sm hidden-xs">
-    <a href="index.php" class="anchor-link">Home</a>
-    <a data-anchor="skills" class="anchor-link">Skills</a>
-    <a data-anchor="porfolio" class="anchor-link">Portfolio</a>
-    <a data-anchor="testimonial" class="anchor-link">Testimonial</a>
-
-    <a class="pull-right" target="_blank" href="https://github.com/olu1987"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
-    <a class="pull-right" target="_blank" href="https://uk.linkedin.com/in/olu-meduoye-a76a82101"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a>
-</div>
-<a class="nav-toggle hidden-lg hidden-md">
+<a class="nav-toggle">
     <i class="fa fa-2x fa-bars" aria-hidden="true"></i>
 </a>
-<div id="sidebar" class="nav-sidebar hidden-lg hidden-md">
+<div id="sidebar" class="nav-sidebar">
     <ul>
     <li><a target="_blank" href="https://github.com/olu1987"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a></li>
     <li><a target="_blank" href="https://uk.linkedin.com/in/olu-meduoye-a76a82101"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>

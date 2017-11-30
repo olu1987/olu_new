@@ -44,38 +44,43 @@
   }
 
   &.vantworks{
-    background: #fdb5ac;
+    background: #d2c2c2;
     img{
-      margin: 0 auto;
-      width:40%;
+      width: 40px;
+      display: inline-block;
+      margin-top: -18px;
     }
   }
 
   &.lnt{
-    background: #ffffff;
+    background: #cbd7df;
   }
 
   &.tvplayer{
+    background: #fdf5d0;
+    &.two{
+      background: #faaaac;
+    }
     img{
       margin: 0 auto;
+      width:35%;
     }
   }
 
   &.leshia{
-    background: rgba(255, 255, 0, 0.42);
+    background: #f5d4d5;
     img{
       margin: 5px auto;
 
     }
   }
   &.covervidz{
-    background: #4a2875;
+    background: #cbafdd;
     img{
       border-radius: 10px;
     }
   }
   &.tech{
-    border: 1px solid rgba(0, 0, 0, 0.28);
     cursor: default;
     display: block;
     text-align: center;

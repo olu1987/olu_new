@@ -34,6 +34,10 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#d2c2c3',GradientType=0 ); /* ie6-9 */
 }
 
+.vantworks-solid-bg{
+  background: #d2c2c3;
+}
+
 .leshia-bg{
   background: -moz-linear-gradient(90deg, rgba(252,227,170,1) 0%, rgba(255,255,255,1) 100%); /* ff3.6+ */
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(252,227,170,1))); /* safari4+,chrome */

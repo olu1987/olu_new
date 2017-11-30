@@ -51,7 +51,7 @@
     <div class="container vantworks-bg">
         <div class="row portfolio">
             <div class="col-md-12">
-                <div class="tile col-md-4 col-sm-12 tech">
+                <div class="tile col-md-4 col-sm-12 tech vantworks-solid-bg">
                     <h1>Techonology used</h1>
                     <ul class="text-uppercase list-inline">
                         <li>htm5</li>
@@ -65,28 +65,31 @@
                         <li>paypal api</li>
                     </ul>
                 </div>
-                <div class="tile col-md-4 col-sm-6 leshia">
-                    <img class="img-responsive" src="img/LT-icon.png"/>
-                    <div class="title-wrap">
-                        <h3>leshia Thomas<br>
-                            <small>
-                                digital designer portfolio website
-                            </small>
-                        </h3>
-
-                    </div>
-                </div>
-                <div class="tile col-md-4 col-sm-6 tvplayer">
+                <a data-link="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two fade-out-link">
                     <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                     <div class="title-wrap">
-                        <h3>Tvplayer<br>
-                            <small>
-                                lazy-loading javascript tvguide
-                            </small>
+                        <h3>
+                            <small>previous project</small><br>
+                            Tvplayer<br>
+                            <small>website build and rebrand</small>
                         </h3>
 
                     </div>
-                </div>
+                </a>
+                <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
+                    <img class="img-responsive" src="img/covervidz-text-logo.png"/>
+                    <div class="title-wrap">
+                        <h3>
+                            <small>
+                               next project
+                            </small><br>
+                               covervidz<br>
+                            <small>
+                                php web application
+                            </small>
+                        </h3>
+                    </div>
+                </a>
             </div>
         </div>
     </div>

@@ -73,7 +73,7 @@
             <div class="row portfolio">
                 <div class="col-md-12">
                     <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
-                        <img class="img-responsive" src="img/icon-key.png"/>
+                        <img class="img-responsive" src="img/lnt-text.png"/>
                         <div class="title-wrap">
                             <h3>lnt london<br>
                                 <small>
@@ -84,7 +84,7 @@
                         </div>
                     </a>
                     <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
-                        <img class="img-responsive" src="img/LT-icon.png"/>
+                        <img class="img-responsive" src="img/leshia-top-text.png"/>
                         <div class="title-wrap">
                             <h3>leshia Thomas<br>
                                 <small>
@@ -115,7 +115,10 @@
                         </div>
                     </a>
                     <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">
-                        <img class="img-responsive" src="img/vantworks-logo.png"/>
+                        <div class="col-md-12 text-center vantworks-logo-grid">
+                            <img class="img-responsive vantworks-logo" src="img/vantworks-logo.png">
+                            <h5 class="task-main-header">Vantworks</h5>
+                        </div>
                         <div class="title-wrap">
                             <h3>Vantworks
                                 <br>
@@ -126,7 +129,7 @@
                         </div>
                     </a>
                     <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
-                       <img class="img-responsive" src="img/covervidz-mic.jpg"/>
+                       <img class="img-responsive" src="img/covervidz-text-logo.png"/>
                         <div class="title-wrap">
                             <h3>
                                 Covervidz<br>

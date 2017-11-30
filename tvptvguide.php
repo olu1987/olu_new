@@ -5,7 +5,7 @@
         <div class="row pt-20">
             <div class="col-md-6 col-md-offset-3 tvp-header text-center">
                 <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
-                <a target="_blank" class="site-link" href="https://tvplayer.com">www.tvplayer.com</a>
+                <a target="_blank" class="site-link" href="https://tvplayer.com/tvguide">www.tvplayer.com/tvguide</a>
             </div>
         </div>
         <div class="row mb-50 text-center">
@@ -49,7 +49,7 @@
         </div>
         <div class="row portfolio">
             <div class="col-md-12">
-                <div class="tile col-md-4 col-sm-12 tech">
+                <div class="tile col-md-4 col-sm-12 tech tvp-solid-bg">
                     <h1>Techonology used</h1>
                     <ul class="text-uppercase list-inline">
                         <li>htm5</li>
@@ -63,28 +63,32 @@
                         <li>paypal api</li>
                     </ul>
                 </div>
-                <div class="tile col-md-4 col-sm-6 leshia">
-                    <img class="img-responsive" src="img/LT-icon.png"/>
+                <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
+                    <img class="img-responsive" src="img/leshia-top-text.png"/>
                     <div class="title-wrap">
-                        <h3>leshia Thomas<br>
+                        <h3>
+                            <small>
+                                previous project
+                            </small><br>
+                            leshia Thomas<br>
                             <small>
                                 digital designer portfolio website
                             </small>
                         </h3>
 
                     </div>
-                </div>
-                <div class="tile col-md-4 col-sm-6 tvplayer">
+                </a>
+                <a data-link="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two fade-out-link">
                     <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                     <div class="title-wrap">
-                        <h3>Tvplayer<br>
-                            <small>
-                                lazy-loading javascript tvguide
-                            </small>
+                        <h3>
+                            <small>next project</small><br>
+                            Tvplayer<br>
+                            <small>website build and rebrand</small>
                         </h3>
 
                     </div>
-                </div>
+                </a>
             </div>
         </div>
     </div>

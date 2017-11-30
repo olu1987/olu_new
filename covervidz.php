@@ -1,5 +1,4 @@
 <?php include 'header.php'; ?>
-
     <!-- Add your site or application content here -->
 <div class="container covervidz-bg">
     <div class="row pt-20">
@@ -49,7 +48,7 @@
         </div>
         <div class="row portfolio">
             <div class="col-md-12">
-                <div class="tile col-md-4 col-sm-12 tech">
+                <div class="tile col-md-4 col-sm-12 tech covervidz-solid-bg">
                     <h1>Techonology used</h1>
                     <ul class="text-uppercase list-inline">
                         <li>htm5</li>
@@ -63,28 +62,39 @@
                         <li>paypal api</li>
                     </ul>
                 </div>
-                <div class="tile col-md-4 col-sm-6 leshia">
-                    <img class="img-responsive" src="img/LT-icon.png"/>
+                <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">
+                    <div class="col-md-12 text-center vantworks-logo-grid">
+                        <img class="img-responsive vantworks-logo" src="img/vantworks-logo.png">
+                        <h5 class="task-main-header">Vantworks</h5>
+                    </div>
                     <div class="title-wrap">
-                        <h3>leshia Thomas<br>
+                        <h3>
                             <small>
-                                digital designer portfolio website
+                                previous project
+                            </small><br>
+                            Vantworks
+                            <br>
+                            <small>
+                                Website upsell Landing pages
+                            </small>
+                        </h3>
+                    </div>
+                </a>
+                <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
+                    <img class="img-responsive" src="img/lnt-text.png"/>
+                    <div class="title-wrap">
+                        <h3>
+                            <small>
+                                next project
+                            </small><br>
+                            lnt london<br>
+                            <small>
+                                ecommerce fashion website build
                             </small>
                         </h3>
 
                     </div>
-                </div>
-                <div class="tile col-md-4 col-sm-6 tvplayer">
-                    <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
-                    <div class="title-wrap">
-                        <h3>Tvplayer<br>
-                            <small>
-                                lazy-loading javascript tvguide
-                            </small>
-                        </h3>
-
-                    </div>
-                </div>
+                </a>
             </div>
         </div>
     </div>

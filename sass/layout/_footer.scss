@@ -1,6 +1,11 @@
-.footer{
+.row.footer{
   height: 150px;
   padding: 50px;
-  background: #fff;
-  color: #444444;
+  background: #747474;
+  color: #fff;
+  li{
+    a{
+      color: #fff;
+    }
+  }
 }

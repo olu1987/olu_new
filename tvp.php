@@ -66,28 +66,39 @@
                         <li>paypal api</li>
                     </ul>
                 </div>
-                <div class="tile col-md-4 col-sm-6 leshia">
-                    <img class="img-responsive" src="img/LT-icon.png"/>
-                    <div class="title-wrap">
-                        <h3>leshia Thomas<br>
-                            <small>
-                                digital designer portfolio website
-                            </small>
-                        </h3>
-
-                    </div>
-                </div>
-                <div class="tile col-md-4 col-sm-6 tvplayer">
+                <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
                     <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                     <div class="title-wrap">
-                        <h3>Tvplayer<br>
+                        <h3>
+                            <small>
+                                previous project
+                            </small><br>
+                            Tvplayer<br>
                             <small>
                                 lazy-loading javascript tvguide
                             </small>
                         </h3>
-
                     </div>
-                </div>
+                </a>
+                <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">
+                    <div class="col-md-12 text-center vantworks-logo-grid">
+                        <img class="img-responsive vantworks-logo" src="img/vantworks-logo.png">
+                        <h5 class="task-main-header">Vantworks</h5>
+                    </div>
+                    <div class="title-wrap">
+
+                        <h3>
+                            <small>
+                                next project
+                            </small><br>
+                            Vantworks
+                            <br>
+                            <small>
+                                Website upsell Landing pages
+                            </small>
+                        </h3>
+                    </div>
+                </a>
             </div>
         </div>
     </div>

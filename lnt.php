@@ -16,7 +16,7 @@
                "</p>
         </div>
     </div>
-    <div class="row">
+    <div class="row promo-lnt">
         <div class="col-md-5 col-md-offset-1">
             <img class="img-responsive" src="img/lnt-two.jpg"/>
         </div>
@@ -24,7 +24,7 @@
             <img class="img-responsive" src="img/lnt-three.jpg"/>
         </div>
     </div>
-    <div class="row pt-50">
+    <div class="row pt-30 promo-lnt">
         <div class="col-md-10 col-md-offset-1">
             <img class="img-responsive" src="img/lnt-one.jpg"/>
         </div>
@@ -46,11 +46,11 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-10 col-md-offset-1">
+        <div class="col-md-10 col-md-offset-1 promo-lnt">
             <img class="img-responsive" src="img/lnt-four.jpg"/>
         </div>
     </div>
-    <div class="row pt-50 pb-50">
+    <div class="row pt-30 pb-50 promo-lnt">
         <div class="col-md-5 col-md-offset-1">
             <img class="img-responsive" src="img/lnt-five.jpg"/>
         </div>
@@ -85,28 +85,34 @@
                     <li>paypal api</li>
                 </ul>
             </div>
-            <div class="tile col-md-4 col-sm-6 leshia">
-                <img class="img-responsive" src="img/LT-icon.png"/>
+            <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
+                <img class="img-responsive" src="img/leshia-top-text.png"/>
                 <div class="title-wrap">
-                    <h3>leshia Thomas<br>
+
+                    <h3>
+                        <small class="warning-color">next project</small><br>
+                        leshia Thomas<br>
                         <small>
                             digital designer portfolio website
                         </small>
                     </h3>
 
                 </div>
-            </div>
-            <div class="tile col-md-4 col-sm-6 tvplayer">
+            </a>
+            <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
                 <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                 <div class="title-wrap">
-                    <h3>Tvplayer<br>
+
+                    <h3>
+                        <small class="warning-color">project after next</small><br>
+                        Tvplayer<br>
                         <small>
                             lazy-loading javascript tvguide
                         </small>
                     </h3>
 
                 </div>
-            </div>
+            </a>
         </div>
     </div>
 </div>
