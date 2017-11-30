@@ -72,7 +72,7 @@
         </div>
             <div class="row portfolio">
                 <div class="col-md-12">
-                    <a href="lnt.php" class="tile col-md-4 col-sm-6 lnt">
+                    <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
                         <img class="img-responsive" src="img/icon-key.png"/>
                         <div class="title-wrap">
                             <h3>lnt london<br>
@@ -83,7 +83,7 @@
 
                         </div>
                     </a>
-                    <a href="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia">
+                    <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
                         <img class="img-responsive" src="img/LT-icon.png"/>
                         <div class="title-wrap">
                             <h3>leshia Thomas<br>
@@ -94,7 +94,7 @@
 
                         </div>
                     </a>
-                    <a href="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer">
+                    <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
                         <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                         <div class="title-wrap">
                             <h3>Tvplayer<br>
@@ -105,7 +105,7 @@
 
                         </div>
                     </a>
-                    <a href="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two">
+                    <a data-link="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two fade-out-link">
                         <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                         <div class="title-wrap">
                             <h3>Tvplayer<br>
@@ -114,7 +114,7 @@
 
                         </div>
                     </a>
-                    <a href="vantworks.php" class="tile col-md-4 col-sm-6 vantworks">
+                    <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">
                         <img class="img-responsive" src="img/vantworks-logo.png"/>
                         <div class="title-wrap">
                             <h3>Vantworks
@@ -125,7 +125,7 @@
                             </h3>
                         </div>
                     </a>
-                    <a href="covervidz.php" class="tile col-md-4 col-sm-6 covervidz">
+                    <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
                        <img class="img-responsive" src="img/covervidz-mic.jpg"/>
                         <div class="title-wrap">
                             <h3>

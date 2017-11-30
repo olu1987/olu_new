@@ -12,7 +12,7 @@ gulp.task( 'default', [ 'serve' ] );
 
 // Concatenate JS Files
 gulp.task('scripts', function() {
-    return gulp.src(['js/*.js'])
+    return gulp.src(['js/utils.js','js/*.js'])
         .pipe(concat('main.js'))
         .pipe(rename({suffix: '.min'}))
         //.pipe(uglify())

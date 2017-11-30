@@ -1,29 +1,4 @@
 $( document ).ready(function() {
-    function addClass(el, className){
-        if (el.classList)
-            el.classList.add(className);
-        else
-            el.className += ' ' + className;
-    }
-
-    function removeClass(el, className){
-        if (el.classList)
-            el.classList.remove(className);
-        else
-            el.className = el.className.replace(new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
-    }
-
-    function hasClass(el, selector) {
-        var className = " " + selector + " ";
-
-        if ((" " + el.className + " ").replace(/[\n\t]/g, " ").indexOf(className) > -1) {
-            return true;
-        }
-        return false;
-    }
-
-
-
     var graph = function(){
 
         if(! hasClass(document.body,'home')){
@@ -34,7 +9,6 @@ $( document ).ready(function() {
 
         skillRow ? window.addEventListener('scroll', function () {
             var distance = skillRow.getBoundingClientRect().top;
-            console.log(distance);
             if(distance < 320){
                 addClass(skillRow, 'active')
             }
@@ -93,26 +67,8 @@ $( document ).ready(function() {
     var header = $('.header');
 
     header.parallax(
-        {imageSrc: 'img/olu-header.jpg', position:'right',
+        {imageSrc: 'img/olu-header.jpg', position:'right'
     });
-    
-    var tileModule = {
-        init:function () {
-            this.unbinding;
-            this.binding;
-        },
-        binding:function () {
-
-        },
-        tiles:document.querySelectorAll('skill-list li'),
-        unbinding:function () {
-            
-        },
-        fadeInStars:function () {
-           var stars = this.querySelectorAll('.fa-star');
-
-        }
-    }
 
 
 });
