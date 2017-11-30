@@ -7,7 +7,7 @@
                 <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
             </div>
         </div>
-        <div class="row">
+        <div class="row ">
             <div class="col-md-10 col-md-offset-1">
                 <img class="img-responsive" src="img/watch-now.jpg"/>
             </div>
@@ -26,8 +26,7 @@
                     a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</p>
             </div>
         </div>
-        <div class="row">
-            <img class="img-responsive" src="img/slanted-tvp-web.jpg"/>
+        <div class="row promo-row">
         </div>
     </div>
     <div class="container tvp-red-bg">
