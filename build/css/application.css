@@ -237,6 +237,9 @@ a:hover, a:focus {
 .leshia-header-text {
   padding: 100px 0 0; }
 
+.vantworks-header {
+  margin-top: 70px; }
+
 .page-container {
   box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.08); }
 
@@ -322,6 +325,9 @@ a:hover, a:focus {
   background-size: cover;
   background-position: center top;
   height: 500px; }
+
+.vantworks-promo-top {
+  margin-top: 70px; }
 
 .footer {
   height: 150px;
