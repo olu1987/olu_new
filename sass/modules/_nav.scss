@@ -78,10 +78,15 @@
 }
 
 .site-link{
-  font-size: 23px;
+  font-size: 30px;
   color: #444444;
+  transition: all ease-in-out 300ms;
+  &:hover,&:focus{
+    color: gold;
+  }
   &.lnt{
     margin-top: -22px;
     display: block;
+    font-size: 23px;
   }
 }
