@@ -13,7 +13,7 @@
             </div>
         </div>
     </div>
-    <div class="container tvp-red-bg">
+    <div class="container ">
         <div class="row task-description">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the task</h2>

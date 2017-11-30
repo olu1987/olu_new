@@ -76,3 +76,12 @@
   }
 
 }
+
+.site-link{
+  font-size: 23px;
+  color: #444444;
+  &.lnt{
+    margin-top: -22px;
+    display: block;
+  }
+}

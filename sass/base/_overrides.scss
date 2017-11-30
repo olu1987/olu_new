@@ -2,3 +2,9 @@ body{
   font-family: 'Barlow', sans-serif;
 }
 
+a{
+  &:hover,&:focus{
+    text-decoration: none !important;
+  }
+}
+
