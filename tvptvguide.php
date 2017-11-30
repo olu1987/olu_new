@@ -1,20 +1,29 @@
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->
-    <div class="container grid-images  tvp-red-bg">
+    <div class="container  tvp-red-bg">
         <div class="row pt-20">
-            <div class="col-md-6 col-md-offset-3 tvp-header">
+            <div class="col-md-6 col-md-offset-3 tvp-header text-center">
                 <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
+                <a target="_blank" class="site-link" href="https://tvplayer.com">www.tvplayer.com</a>
+            </div>
+        </div>
+        <div class="row mb-50 text-center">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="text-uppercase">the challenge</h2>
+                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
+                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
+                    "</p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                <img class="img-responsive" src="img/tvp-tvguide-image.jpg"/>
+                <img class="img-responsive center" src="img/tvp-tvguide-image.jpg"/>
             </div>
         </div>
     </div>
     <div class="container ">
-        <div class="row task-description">
+        <div class="row pt-50 tvp-solid-bg">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the task</h2>
                 <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
@@ -26,6 +35,16 @@
                     procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise,
                     except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy
                     a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</p>
+            </div>
+        </div>
+        <div class="row task-description tvp-solid-bg">
+            <div class="col-md-10 col-md-offset-1">
+                <h2 class="text-uppercase">the results</h2>
+                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
+                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
+                    the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
+                    because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
+                   "</p>
             </div>
         </div>
         <div class="row portfolio">
