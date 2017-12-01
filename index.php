@@ -1,8 +1,9 @@
 <?php $title = 'Web Developer from London' ?>
+<?php $body = 'home' ?>
 <?php include 'header.php'; ?>
 
         <!-- Add your site or application content here -->
-        <div id="who" class="container">
+        <div id="home" class="container">
             <div class="row text-center header" data-parallax="scroll" data-image-src="img/olu-header.jpg" data-position-x="1000px">
                 <div class="overlay">
 
@@ -21,7 +22,7 @@
 
             </div>
 
-    <div class="container">
+    <div id="skills" class="container">
         <div class="skills-wrap">
         <div class="row skills text-center">
             <div class="col-sm-6 text-uppercase text-left html">
@@ -71,7 +72,7 @@
             </div>
         </div>
         </div>
-            <div class="row portfolio">
+            <div id="portfolio" class="row portfolio">
                 <div class="col-md-12">
                     <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
                         <img class="img-responsive" src="img/lnt-text.png"/>

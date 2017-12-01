@@ -29,4 +29,18 @@
       }
     }
   }
+
+  .header h1{
+    font-size: 50px;
+    text-align: center;
+  }
+}
+
+@media(max-width: 1040px){
+  .home .header{
+    background-image: url(../../img/olu-header.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 }

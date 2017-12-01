@@ -45,23 +45,6 @@ $( document ).ready(function() {
             }
         });
 
-            function scrollToAnchor(aid){
-                var aTag = $("#"+ aid);
-                $('html,body').animate({scrollTop: aTag.offset().top},'slow');
-                removeClass(sideBar,'active');
-                removeClass(toggle,'active');
-            }
-
-            for(var i = 0, x = navButtons.length; i < x; i++){
-                navButtons[i].addEventListener('click',function(){
-
-                    var buttonId = this.dataset.anchor;
-
-                    scrollToAnchor(buttonId);
-
-                })
-            }
-
     }());
 
     var header = $('.header');

@@ -6,7 +6,7 @@
         <div class="col-md-6 text-center col-md-offset-3 mb-30">
             <h2>I'm currently open to new projects and opportunities so fill out the form or contact me at <a href="mailto:olu@claymoreminds.com">olu@claymoreminds.com</a> or on
             +44 7437919874</h2>
-            <h3>I'll get back to you within at most 48 hours.</h3>
+            <h3>I'll get back to you within 48 hours.</h3>
         </div>
     </div>
     <div class="row">

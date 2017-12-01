@@ -2,27 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857d9b03-54d3-4ec4-b334-cd1f2d6420b4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bodhan.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buses.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/covervidz.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/application.css" afterPath="$PROJECT_DIR$/build/css/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/application.css.map" afterPath="$PROJECT_DIR$/build/css/application.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/main.min.js" afterPath="$PROJECT_DIR$/build/js/main.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/covervidz.php" afterPath="$PROJECT_DIR$/covervidz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leshiathomas.php" afterPath="$PROJECT_DIR$/leshiathomas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lnt.php" afterPath="$PROJECT_DIR$/lnt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_overrides.scss" afterPath="$PROJECT_DIR$/sass/base/_overrides.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/layout/_footer.scss" afterPath="$PROJECT_DIR$/sass/layout/_footer.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/layout/_page.scss" afterPath="$PROJECT_DIR$/sass/layout/_page.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/modules/_nav.scss" afterPath="$PROJECT_DIR$/sass/modules/_nav.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/send_form_email.php" afterPath="$PROJECT_DIR$/send_form_email.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvp.php" afterPath="$PROJECT_DIR$/tvp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvptvguide.php" afterPath="$PROJECT_DIR$/tvptvguide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vantworks.php" afterPath="$PROJECT_DIR$/vantworks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/home.js" afterPath="$PROJECT_DIR$/js/home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/state/_media-queries.scss" afterPath="$PROJECT_DIR$/sass/state/_media-queries.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,28 +28,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vantworks.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vantworks.php">
+      <file leaf-file-name="_media-queries.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sass/state/_media-queries.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="covervidz.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/covervidz.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="325">
+              <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -70,8 +48,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="36" column="74" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="74" />
+            <state relative-caret-position="221">
+              <caret line="34" column="30" lean-forward="false" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -81,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="43" column="70" lean-forward="false" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
+              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -92,16 +70,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
               <caret line="109" column="21" lean-forward="false" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="send_form_email.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/send_form_email.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="99" column="37" lean-forward="false" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -137,6 +105,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -155,6 +143,7 @@
       <find>consol</find>
       <find>ecc</find>
       <find>laz</find>
+      <find>navbutt</find>
     </findStrings>
     <replaceStrings>
       <replace>col-xs-2</replace>
@@ -173,11 +162,8 @@
         <option value="$PROJECT_DIR$/sass/application.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lnt.html" />
-        <option value="$PROJECT_DIR$/sass/state/_media-queries.scss" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/js/utils.js" />
-        <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/js/home.js" />
         <option value="$PROJECT_DIR$/sass/modules/_text.scss" />
         <option value="$PROJECT_DIR$/sass/layout/_header.scss" />
         <option value="$PROJECT_DIR$/sass/base/_headings.scss" />
@@ -185,20 +171,23 @@
         <option value="$PROJECT_DIR$/sass/modules/_grid.scss" />
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/sass/modules/_nav.scss" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/leshiathomas.php" />
         <option value="$PROJECT_DIR$/lnt.php" />
         <option value="$PROJECT_DIR$/tvptvguide.php" />
         <option value="$PROJECT_DIR$/tvp.php" />
         <option value="$PROJECT_DIR$/vantworks.php" />
         <option value="$PROJECT_DIR$/covervidz.php" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/sass/layout/_page.scss" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/sass/layout/_footer.scss" />
         <option value="$PROJECT_DIR$/sass/base/_overrides.scss" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/send_form_email.php" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/js/home.js" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/sass/state/_media-queries.scss" />
       </list>
     </option>
   </component>
@@ -469,15 +458,15 @@
       <option name="presentableId" value="Default" />
       <updated>1511007851483</updated>
       <workItem from="1511007853509" duration="56171000" />
-      <workItem from="1511701914953" duration="56968000" />
+      <workItem from="1511701914953" duration="62776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113139000" />
+    <option name="totallyTimeSpent" value="118947000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -665,14 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/state/_media-queries.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -686,32 +667,6 @@
         <state relative-caret-position="357">
           <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../leshiaUX/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="58" column="7" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-707">
-          <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="75" lean-forward="true" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
-          <folding>
-            <marker date="1512052095199" expanded="true" signature="1148:1497" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -819,14 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tvp.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -843,18 +790,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
+    <entry file="file://$PROJECT_DIR$/../leshiaUX/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="36" column="74" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="74" />
+        <state relative-caret-position="323">
+          <caret line="103" column="9" lean-forward="true" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/layout/_page.scss">
+    <entry file="file://$PROJECT_DIR$/send_form_email.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="109" column="21" lean-forward="false" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="99" column="37" lean-forward="false" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -863,6 +810,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/layout/_page.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="109" column="21" lean-forward="false" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -883,18 +838,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="43" column="70" lean-forward="false" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
+        <state relative-caret-position="765">
+          <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/send_form_email.php">
+    <entry file="file://$PROJECT_DIR$/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="99" column="37" lean-forward="false" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
+        <state relative-caret-position="305">
+          <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="34" column="30" lean-forward="false" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/state/_media-queries.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
           <folding />
         </state>
       </provider>
