@@ -1,3 +1,4 @@
+<?php $title = 'PHP Web Application' ?>
 <?php include 'header.php'; ?>
     <!-- Add your site or application content here -->
 <div class="container covervidz-bg">

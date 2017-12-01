@@ -10,6 +10,7 @@
 
   &:hover{
     opacity: 1;
+    color: gold;
   }
 
   &.active{
@@ -26,6 +27,7 @@
   li{
     a{
       color: #444;
+
     }
   }
 }
@@ -49,8 +51,9 @@
       a{
         color:#ffffff;
         cursor:pointer;
-        &:hover,&:focus{
-          text-decoration: none;
+        transition: all ease-in-out 300ms;
+        &:hover{
+          color:gold;
         }
       }
 

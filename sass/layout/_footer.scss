@@ -4,6 +4,8 @@
   padding: 50px;
   background: #747474;
   color: #fff;
+  position: absolute;
+  width:100%;
   li{
     a{
       color: #fff;
@@ -11,7 +13,3 @@
   }
 }
 
-.footer-container{
-  position: absolute;
-  width:100%;
-}

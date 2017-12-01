@@ -1,3 +1,4 @@
+<?php $title = 'Leshia Thomas | Digital Designer Portfolio Website' ?>
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->
@@ -92,7 +93,7 @@
                             </small><br>
                             Tvplayer<br>
                             <small>
-                                lazy-loading javascript tvguide
+                                lazy-loading tvguide
                             </small>
                         </h3>
 

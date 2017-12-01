@@ -1,5 +1,5 @@
+<?php $title = '. LNT LONDON . | Ecommerce Fashion Website Build' ?>
 <?php include 'header.php'; ?>
-
 <!-- Add your site or application content here -->
 <div class="container grid-images lnt-bg-blue">
     <div class="row pt-20 pb-20 text-center">
@@ -107,7 +107,7 @@
                         <small class="warning-color">project after next</small><br>
                         Tvplayer<br>
                         <small>
-                            lazy-loading javascript tvguide
+                            lazy-loading tvguide
                         </small>
                     </h3>
 

@@ -1,3 +1,4 @@
+<?php $title = 'contact' ?>
 <?php include 'header.php'; ?>
 
 <div class="container">
@@ -40,6 +41,7 @@
                     <div class="col-sm-9">
                         <select class="form-control" id="countrySelect" name="country">
                             <option value=""></option>
+                            <option value="GB">United Kingdom</option>
                             <option value="AF">Afghanistan</option>
                             <option value="AX">Åland Islands</option>
                             <option value="AL">Albania</option>

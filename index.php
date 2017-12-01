@@ -1,3 +1,4 @@
+<?php $title = 'Web Developer from London' ?>
 <?php include 'header.php'; ?>
 
         <!-- Add your site or application content here -->
@@ -99,7 +100,7 @@
                         <div class="title-wrap">
                             <h3>Tvplayer<br>
                                 <small>
-                                    lazy-loading javascript tvguide
+                                    lazy-loading tvguide
                                 </small>
                             </h3>
 

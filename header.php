@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Olu Meduoye | Web Developer from London</title>
+    <title>Olu Meduoye | <?= $title ?></title>
     <meta name="description" content="Design projects by Leshia Thomas. All enquiries to leshia.thomas@live.co.uk">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -30,12 +30,13 @@
     <i class="fa fa-2x fa-bars" aria-hidden="true"></i>
 </a>
 <div id="sidebar" class="nav-sidebar">
-    <ul>
-    <li><a target="_blank" href="https://github.com/olu1987"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a></li>
-    <li><a target="_blank" href="https://uk.linkedin.com/in/olu-meduoye-a76a82101"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>
+    <ul class="text-uppercase">
+    <li class="anchor-link"><a href="index.php">Home</a></li>
     <li class="anchor-link"><a data-anchor="skills" >Skills</a></li>
     <li class="anchor-link"><a data-anchor="porfolio" >Portfolio</a></li>
-    <li class="anchor-link"><a data-anchor="testimonial" >Testimonial</a></li>
+    <li><a class="fade-out-link" data-link="contact.php" >Contact</a></li>
+        <li><a target="_blank" href="https://github.com/olu1987"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a></li>
+        <li><a target="_blank" href="https://uk.linkedin.com/in/olu-meduoye-a76a82101"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>
     </ul>
 </div>
 <!--[if lt IE 8]>

@@ -1,3 +1,4 @@
+<?php $title = 'contact' ?>
 <?php include 'header.php'; ?>
 <div class="container text-center pt-50">
 <?php
@@ -96,7 +97,7 @@ if(isset($_POST['email'])) {
     @mail($email_to, $email_subject, $email_message, $headers);
     ?>
 
-    <p>Thank you for contacting us. We will be in touch with you very soon.</p>
+    <p>Thank you for contacting me. I will be in touch with you very soon.</p>
     <a href="index.php">Home</a>
 
     <?php
