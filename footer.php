@@ -1,11 +1,18 @@
 <div class="row footer">
-    <div class="col-md-12">
-        <ul class="list-inline text-uppercase">
+    <div class="col-md-4 pt-30">
+        <p>Designed by <a class="text-uppercase leshia-link" href="http://leshiathomas.com">leshia thomas</a></p>
+    </div>
+    <div class="col-md-4 text-center">
+        <h1 class="text-uppercase">
+            olu meduoye
+        </h1>
+    </div>
+    <div class="col-md-4">
+        <ul class="list-inline text-right mt-20">
+            <li><a href="#" class="fade-out-link text-uppercase" data-link="contact.php" >Contact</a></li>
             <li><a target="_blank" href="https://github.com/olu1987"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a></li>
-            <li><a target="_blank" href="https://uk.linkedin.com/in/olu-meduoye-a76a82101"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>
-            <li><a href="#" class="fade-out-link" data-link="contact.php" >Contact</a></li>
+            <li><a class="mt-20" target="_blank" href="https://uk.linkedin.com/in/olu-meduoye-a76a82101"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a></li>
         </ul>
-        <p>Olu Meduoye 2017</p>
     </div>
 </div>
 </div>

@@ -56,3 +56,13 @@
     background-size: cover;
   }
 }
+
+@media(max-width: 991px){
+  .row.footer{
+    padding: 0;
+    text-align: center;
+    ul{
+      text-align: center;
+    }
+  }
+}

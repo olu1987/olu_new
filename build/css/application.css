@@ -186,7 +186,7 @@ html, body {
   height: 100%; }
 
 body {
-  font-family: 'Barlow', sans-serif; }
+  font-family: 'arial', sans-serif; }
 
 a:hover, a:focus {
   text-decoration: none !important; }
@@ -360,20 +360,32 @@ a:hover, a:focus {
 
 .page-wrap {
   min-height: 100%;
-  padding-bottom: 150px;
+  padding-bottom: 200px;
   position: relative; }
 
 .row.footer {
-  height: 150px;
+  height: 200px;
   bottom: 0;
-  padding: 50px;
-  background: #747474;
+  padding: 66px 50px;
+  background: #3a3b36;
   color: #fff;
   position: absolute;
   width: 100%;
   margin: 0; }
+  .row.footer h1 {
+    font-size: 40px;
+    margin-top: 8px;
+    margin-bottom: -8px; }
   .row.footer li a {
-    color: #fff; }
+    color: #fff;
+    transition: all ease-in-out 300ms; }
+    .row.footer li a:hover {
+      color: gold; }
+  .row.footer .leshia-link {
+    color: #cccccc;
+    transition: all ease-in-out 300ms; }
+    .row.footer .leshia-link:hover {
+      color: gold; }
 
 .lt-icon {
   width: 100px;
@@ -689,5 +701,12 @@ a:hover, a:focus {
     background-position: center center !important;
     background-repeat: no-repeat;
     background-size: cover; } }
+
+@media (max-width: 991px) {
+  .row.footer {
+    padding: 0;
+    text-align: center; }
+    .row.footer ul {
+      text-align: center; } }
 
 /*# sourceMappingURL=application.css.map */
