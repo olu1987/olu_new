@@ -34,12 +34,24 @@
     font-size: 50px;
     text-align: center;
   }
+
+  .skills-wrap{
+    height: auto;
+      .skills .col-sm-6{
+        position: relative;
+        top:0;
+        left:0;
+        right:0;
+        text-align: center;
+        padding-top: 15px;
+      }
+  }
 }
 
 @media(max-width: 1040px){
   .home .header{
     background-image: url(../../img/olu-header.jpg) ;
-    background-position: center;
+    background-position: center center !important;
     background-repeat: no-repeat;
     background-size: cover;
   }
