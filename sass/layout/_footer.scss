@@ -1,5 +1,6 @@
 .row.footer{
   height: 150px;
+  bottom:0;
   padding: 50px;
   background: #747474;
   color: #fff;
@@ -8,4 +9,9 @@
       color: #fff;
     }
   }
+}
+
+.footer-container{
+  position: absolute;
+  width:100%;
 }

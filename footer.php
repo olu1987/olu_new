@@ -1,8 +1,9 @@
-<div class="container">
+</div>
+<div class="container footer-container">
     <div class="row footer">
         <div class="col-md-12">
             <ul class="list-inline navigation">
-                <li><a>CONTACT</a></li>
+                <li><a href="contact.php">CONTACT</a></li>
                 <li><a><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                 <li><a><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                 <li><a><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
