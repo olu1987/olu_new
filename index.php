@@ -19,7 +19,6 @@
                     </div>
                 </div>
             </div>
-
             </div>
 
     <div id="skills" class="container">
@@ -71,6 +70,18 @@
                  </ul>
             </div>
         </div>
+        </div>
+        <div id="about" class="row text-center about">
+            <div class="col-sm-8 col-sm-offset-2">
+                <h1 class="text-uppercase">About Me</h1>
+                <p>I like to build things that work and look good. I'm constantly improving and learning and I believe that
+                    anyone can learn from anyone. I pride myself on finding innovative and modern solutions to problems and I love
+                    teamwork. Whether it be creating pixel perfect deliverables, building beautiful user interfaces
+                    using modern javascript frameworks like react and angular, or communicating with tact and clarity with all
+                    stakeholders, all are done in the same spirit of excellence that I apply
+                    to all my work. If you're interested in acquiring my expertise, do get in
+                <a href="#" class="fade-out-link gold-color" data-link="contact.php">touch</a> </p>
+            </div>
         </div>
             <div id="portfolio" class="row portfolio">
                 <div class="col-md-12">

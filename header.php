@@ -35,6 +35,7 @@
     <ul class="text-uppercase">
     <li><a class="anchor-link" data-anchor="home" data-link="index.php">Home</a></li>
     <li><a class="anchor-link" data-link="index.php#skills" data-anchor="skills" >Skills</a></li>
+    <li><a class="anchor-link" data-link="index.php#about" data-anchor="about" >About</a></li>
     <li><a class="anchor-link" data-link="index.php#portfolio" data-anchor="portfolio" >Portfolio</a></li>
     <li><a class="fade-out-link" data-link="contact.php" >Contact</a></li>
         <li><a target="_blank" href="https://github.com/olu1987"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a></li>

@@ -53,5 +53,10 @@ $( document ).ready(function() {
         {imageSrc: 'img/olu-header.jpg', position:'right'
     });
 
+    var about = $('#about');
+
+    about.parallax(
+        {imageSrc: 'img/sparks.jpg', position:'right'
+        });
 
 });
