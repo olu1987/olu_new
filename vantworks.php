@@ -15,9 +15,11 @@
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="text-uppercase">the challenge</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    "</p>
+                <p>
+                    Vantworks&copy;, a startup based in the Moorgate area of London, required two Landing pages. One for their in-house
+                    ride sharing app Ridebliss&copy;, the other for themselves as a digital agency. I was approached by Vantworks
+                    in July 2016 and both pages were completed in August of the same year.
+                </p>
             </div>
         </div>
         <div class="row vantworks-promo-top">
@@ -28,11 +30,13 @@
         <div class="row task-description">
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="text-uppercase">the approach</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
-                    because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
-                    consequences that</p>
+                <p>
+                    For the upsell page for Ridebliss&copy;, the client had expressed a desire for there to be a form with
+                    robust frontend validation. I used Validate.js, a lightweight JQuery plugin to provide validation for the form. I also designed
+                    the page and selected the imagery to be used in the background based on sound marketing and UI principles. For the
+                    Vantworks&copy; upsell page I used a html5 video background for the header of the page to make the page more engaging and
+                    modern. Bootstrap.css was used to ensure that both pages would perform well responsively on devices of all sizes.
+                </p>
             </div>
         </div>
         <div class="row">
@@ -43,12 +47,10 @@
         <div class="row pb-50">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the results</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
-                    because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
-                    consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to
-                    "</p>
+                <p>The team at Vantworks were happy with the pages and, with the Ridebliss&copy; page, even experienced a marked
+                   increase in conversions subsequent to the pages deployment. I still have a very good working relationship with the team at
+                   Vantworks&copy; and they have actually provided me recommendations and references for subsequent roles and projects.
+                </p>
             </div>
         </div>
     </div>

@@ -16,7 +16,7 @@
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="text-uppercase">the challenge</h2>
                 <p>
-                    TVPlayer ltd required a new TV guide for their web platform due to their current guide being slow in terms of load time, and not
+                    TVPlayer&copy; ltd required a new TV guide for their web platform due to their current guide being slow in terms of load time, and not
                     feature rich enough for them as a growing company in the online TV streaming sector. I was approached by the the team at
                     TVPlayer in March 2017 about this project and it was delivered in April of the same year.
                 </p>

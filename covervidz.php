@@ -14,9 +14,11 @@
     <div class="row mb-50 text-center">
         <div class="col-md-8 col-md-offset-2">
             <h2 class="text-uppercase">the challenge</h2>
-            <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                "</p>
+            <p>Covervidz was an idea that I myself came up with. It in essence is a youtube but just for covers of
+            popular artists songs. My idea was based on the fact that I often found myself wanting to see new covers of a certain
+            song, but found looking through youtube results sometimes a bit tedious. I built Covervidz in the first 3 months of 2016
+            and I'm still maintaining and improving the platform.
+            </p>
         </div>
     </div>
     <div class="row">
@@ -28,26 +30,21 @@
     <div class="container ">
         <div class="row pt-50 covervidz-solid-bg">
             <div class="col-md-10 col-md-offset-1">
-                <h2 class="text-uppercase">the task</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
-                    because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
-                    consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to
-                    obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can
-                    procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise,
-                    except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy
-                    a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</p>
+                <h2 class="text-uppercase">the approach</h2>
+                <p>
+                    Using the YouTube&copy; API and a mysql database I was able to build a web application that fulfilled all of the
+                    specifications that I had for the project. The project actually went through multiple iterations with the first
+                    version being built using Angular and the second version being built using a more simple, lightweight frontend and much of the functionality
+                    abstracted into a more robust php backend. The current site includes a global search.
+                </p>
             </div>
         </div>
         <div class="row task-description covervidz-solid-bg">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the results</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
-                    because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
-                    "</p>
+                <p>You can view Covervidz at <a class="gold-color" href="http://covervidz.com">www.covervidz.com</a>. I'm very pleased
+                with the final results and the feedback from people who have used the site has been very good. The site continues to grow
+                and I have plans to enhance the platform with more features.</p>
             </div>
         </div>
         <div class="row portfolio">
