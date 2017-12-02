@@ -15,9 +15,11 @@
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="text-uppercase">the challenge</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    "</p>
+                <p>
+                    TVPlayer ltd required a new TV guide for their web platform due to their current guide being slow in terms of load time, and not
+                    feature rich enough for them as a growing company in the online TV streaming sector. I was approached by the the team at
+                    TVPlayer in March 2017 about this project and it was delivered in April of the same year.
+                </p>
             </div>
         </div>
         <div class="row">
@@ -29,26 +31,26 @@
     <div class="container ">
         <div class="row pt-50 tvp-solid-bg">
             <div class="col-md-10 col-md-offset-1">
-                <h2 class="text-uppercase">the task</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
-                    because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
-                    consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to
-                    obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can
-                    procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise,
-                    except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy
-                    a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</p>
+                <h2 class="text-uppercase">the approach</h2>
+                <p>
+                    The major issue with the old TV guide on the TVPlayer web platform was that all of the 100+ channels were being loaded immediately
+                    to the page which was heavily affecting the load time. Also there wasn't any way of moving forward in days even though the EPG
+                    (Electronic Program Guide) data for the guide included a weeks worth of programming. So using Ajax requests, I built a simple system that would load chunks of
+                    channels into the page as a user scrolled. I also built the php backend and ui for a day navigation that would allow the user
+                    to skip to other days of the week, and I added a timeline to the scrolling section of the TV guide to improve usability.
+                </p>
             </div>
         </div>
         <div class="row task-description tvp-solid-bg">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the results</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
-                    because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
-                   "</p>
+                <p>
+                    You can review the results for yourself at <a class="gold-color" target="_blank" href="http://tvplayer.com/tvguide">www.tvplayer.com/tvguide</a>. The team at
+                    TVPlayer were incredibly happy with the final results of the project, and it is widely regarded as not only
+                    the best TV guide they have ever had on their web platform, but also potentially the best TV guide on any of their platforms
+                    including their mobile and TV apps. I have a great relationship with the team at TVPlayer and I hope to work with
+                    them again in the future.
+                </p>
             </div>
         </div>
         <div class="row portfolio">
