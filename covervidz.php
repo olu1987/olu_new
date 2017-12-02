@@ -52,18 +52,20 @@
         </div>
         <div class="row portfolio">
             <div class="col-md-12">
-                <div class="tile col-md-4 col-sm-12 tech covervidz-solid-bg">
-                    <h1>Techonology used</h1>
-                    <ul class="text-uppercase list-inline">
-                        <li>htm5</li>
-                        <li>css3</li>
-                        <li>sass</li>
-                        <li>bootstrap</li>
-                        <li>javascript</li>
-                        <li>angular js</li>
-                        <li>jquery</li>
-                        <li>php</li>
-                        <li>paypal api</li>
+                <div class="tile col-md-4 col-sm-12 tech text-uppercase covervidz-solid-bg">
+                    <h1 class="text-center">Technology</h1><br>
+                    <ul class="list-inline">
+                        <li> - htm5 -</li>
+                        <li> - css3 -</li>
+                        <li> - sass -</li>
+                        <li> - bootstrap -</li>
+                        <li> - javascript -</li>
+                        <li> - jquery -</li>
+                        <li> - node js -</li>
+                        <li> - gulp -</li>
+                        <li> - php - </li>
+                        <li> - mysql - </li>
+                        <li> - youtube api - </li>
                     </ul>
                 </div>
                 <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">

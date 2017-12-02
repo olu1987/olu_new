@@ -464,8 +464,11 @@ a:hover, a:focus {
   .tile.tech {
     cursor: default;
     display: block;
-    text-align: center;
     padding-top: 80px; }
+    .tile.tech ul {
+      padding: 15px; }
+      .tile.tech ul li {
+        width: 100px; }
 
 .leshia.grid-images .row {
   margin-top: 0; }

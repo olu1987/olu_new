@@ -74,18 +74,22 @@
     </div>
     <div class="row portfolio">
         <div class="col-md-12">
-            <div class="tile col-md-4 col-sm-12 tech">
-                <h1>Techonology used</h1><br>
-                <ul class="list-inline text-uppercase">
-                    <li>htm5</li>
-                    <li>css3</li>
-                    <li>sass</li>
-                    <li>bootstrap</li>
-                    <li>javascript</li>
-                    <li>angular js</li>
-                    <li>jquery</li>
-                    <li>php</li>
-                    <li>paypal api</li>
+            <div class="tile col-md-4 col-sm-12 tech text-uppercase">
+                <h1 class="text-center">Technology</h1><br>
+                <ul class="list-inline">
+                    <li> - htm5 -</li>
+                    <li> - css3 -</li>
+                    <li> - sass -</li>
+                    <li> - bootstrap -</li>
+                    <li> - javascript -</li>
+                    <li> - angular js -</li>
+                    <li> - node js -</li>
+                    <li> - gulp -</li>
+                    <li> - jquery -</li>
+                    <li> - php - </li>
+                    <li> - mysql - </li>
+                    <li> - apache - </li>
+                    <li> - paypal api</li>
                 </ul>
             </div>
             <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
