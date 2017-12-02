@@ -14,9 +14,11 @@
     <div class="row mb-50 text-center">
         <div class="col-md-8 col-md-offset-2">
             <h2 class="text-uppercase">the challenge</h2>
-            <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                will give you a complete account of the system, and expound the actual teachings of the great explorer of
-               "</p>
+            <p>
+                LNT LONDON, a boutique fashion brand based in the UK required a new ecommerce website to improve
+                their sales and increase their online presence. I was approached by their team in spring 2017 about this project and it was
+                completed in August of the same year.
+               </p>
         </div>
     </div>
     <div class="row promo-lnt">
@@ -37,15 +39,13 @@
     <div class="row task-description">
         <div class="col-md-10 col-md-offset-1">
             <h2 class="text-uppercase">approach</h2>
-            <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
-                because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
-                consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to
-                obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can
-                procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise,
-                except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy
-                a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</p>
+            <p>Working closely with their design team, we were able to build a website that would do
+            everything they needed and more. Unique features of this project include the integration of the Paypal&copy;
+            api payment system, and also angular js for dynamic item pages. The project also required me to flex some of my
+            backend coding muscles as the platform was built using php and a mysql database. I tried to ensure that the website
+            would look beautiful while maximizing functionality and usabilty. And I tried to connect as much as I could with the brand
+            and ensure that their web platform would truly embody them as a company.
+                </p>
         </div>
     </div>
     <div class="row">
@@ -64,12 +64,9 @@
     <div class="row lnt-solid-bg pb-50">
         <div class="col-md-10 col-md-offset-1">
             <h2 class="text-uppercase">the results</h2>
-            <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
-                because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
-                consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to
-                "</p>
+            <p>You can view the results for yourself at <a href="http://lntlondon.com">www.lntlondon.com</a>. The feedback
+            about the website has been fantastic and the team were very pleased by what we were able to deliver. I'm continuing
+            to work with LNT LONDON as they grow their business and it was, and continues to be a pleasure working with them.</p>
         </div>
     </div>
     <div class="row portfolio">
