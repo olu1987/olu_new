@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857d9b03-54d3-4ec4-b334-cd1f2d6420b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/covervidz.php" afterPath="$PROJECT_DIR$/covervidz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvp.php" afterPath="$PROJECT_DIR$/tvp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvptvguide.php" afterPath="$PROJECT_DIR$/tvptvguide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vantworks.php" afterPath="$PROJECT_DIR$/vantworks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <caret line="84" column="94" lean-forward="false" selection-start-line="84" selection-start-column="94" selection-end-line="84" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -82,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="covervidz.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="covervidz.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/covervidz.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -190,7 +187,6 @@
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/sass/state/_media-queries.scss" />
         <option value="$PROJECT_DIR$/sass/modules/_page-components.scss" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/leshiathomas.php" />
         <option value="$PROJECT_DIR$/lnt.php" />
@@ -198,6 +194,7 @@
         <option value="$PROJECT_DIR$/tvptvguide.php" />
         <option value="$PROJECT_DIR$/vantworks.php" />
         <option value="$PROJECT_DIR$/covervidz.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -468,12 +465,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511007851483</updated>
       <workItem from="1511007853509" duration="56171000" />
-      <workItem from="1511701914953" duration="97099000" />
+      <workItem from="1511701914953" duration="97751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153270000" />
+    <option name="totallyTimeSpent" value="153922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -832,14 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -908,6 +897,14 @@
           <folding>
             <element signature="e#1623#1629#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="84" column="94" lean-forward="false" selection-start-line="84" selection-start-column="94" selection-end-line="84" selection-end-column="94" />
+          <folding />
         </state>
       </provider>
     </entry>
