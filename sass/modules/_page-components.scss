@@ -111,18 +111,47 @@
   }
 }
 
-.covervidz .loader-container .spinner-logo{
-  top: 42.4vh;
-}
-.tvp .loader-container .spinner-logo{
-  top: 43.7vh;
+.lnt .loader-container{
+  .loader{
+    border-left-color: $lnt-blue;
+    border-top-color:$lnt-blue;
+    border-bottom-color: $lnt-blue;
+  }
 }
 
-.leshia .loader-container .spinner-logo{
-  top: 44.5vh;
+.covervidz .loader-container{
+  .spinner-logo{
+    top: 42.4vh;
+  }
+  .loader{
+     border-left-color: $covervidz-purple;
+     border-top-color:$covervidz-purple;
+     border-bottom-color: $covervidz-purple;
+  }
+}
+.tvp .loader-container{
+  .spinner-logo{
+    top: 43.7vh;
+  }
+  .loader{
+    border-left-color: $tvp-red;
+    border-top-color: $tvp-red;
+    border-bottom-color: $tvp-red;
+  }
+}
+
+.leshia .loader-container{
+  .spinner-logo{
+    top: 44.5vh;
+  }
+  .loader{
+    border-left-color: $leshia-yellow;
+    border-top-color: $leshia-yellow;;
+    border-bottom-color: $leshia-yellow;;
+  }
 }
 .vantworks .loader-container .spinner-logo{
-  top: 43.5vh;
+  top: 43.3vh;
 }
 
 .loader,

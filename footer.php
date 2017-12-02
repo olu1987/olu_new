@@ -4,7 +4,7 @@
     </div>
     <div class="col-md-4 text-center">
         <h1 class="text-uppercase">
-            olu meduoye
+            <a class="anchor-link footer-home-link" data-anchor="home" data-link="index.php">olu meduoye</a>
         </h1>
     </div>
     <div class="col-md-4">

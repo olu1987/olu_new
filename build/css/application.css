@@ -372,6 +372,12 @@ a:hover, a:focus {
   position: absolute;
   width: 100%;
   margin: 0; }
+  .row.footer .footer-home-link {
+    color: #ffffff;
+    transition: all ease-in-out 300ms;
+    cursor: pointer; }
+    .row.footer .footer-home-link:hover {
+      color: gold; }
   .row.footer h1 {
     font-size: 40px;
     margin-top: 8px;
@@ -557,17 +563,37 @@ a:hover, a:focus {
     margin-right: auto;
     width: 100px; }
 
+.lnt .loader-container .loader {
+  border-left-color: #b8c9d3;
+  border-top-color: #b8c9d3;
+  border-bottom-color: #b8c9d3; }
+
 .covervidz .loader-container .spinner-logo {
   top: 42.4vh; }
+
+.covervidz .loader-container .loader {
+  border-left-color: #5d3f7d;
+  border-top-color: #5d3f7d;
+  border-bottom-color: #5d3f7d; }
 
 .tvp .loader-container .spinner-logo {
   top: 43.7vh; }
 
+.tvp .loader-container .loader {
+  border-left-color: #FE494E;
+  border-top-color: #FE494E;
+  border-bottom-color: #FE494E; }
+
 .leshia .loader-container .spinner-logo {
   top: 44.5vh; }
 
+.leshia .loader-container .loader {
+  border-left-color: #fce2a9;
+  border-top-color: #fce2a9;
+  border-bottom-color: #fce2a9; }
+
 .vantworks .loader-container .spinner-logo {
-  top: 43.5vh; }
+  top: 43.3vh; }
 
 .loader,
 .loader:after {
