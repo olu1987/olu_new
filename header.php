@@ -17,11 +17,12 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="build/css/application.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Barlow" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
 </head>
 <body class="<?php
          if(isset($body)){ echo $body;}else{ echo'not-home';} ?>">
 <div class="text-center loader-container active">
+    <?php if(isset($spinnerLogo)): ?><img class="spinner-logo" src="<?= $spinnerLogo ?>"/><?php endif; ?>
     <div class="loader"></div>
 </div>
 <div class="fade-out-container hidden">
@@ -32,7 +33,7 @@
 </a>
 <div id="sidebar" class="nav-sidebar">
     <ul class="text-uppercase">
-    <li><a class="anchor-link" data-link="index.php">Home</a></li>
+    <li><a class="anchor-link" data-anchor="home" data-link="index.php">Home</a></li>
     <li><a class="anchor-link" data-link="index.php#skills" data-anchor="skills" >Skills</a></li>
     <li><a class="anchor-link" data-link="index.php#portfolio" data-anchor="portfolio" >Portfolio</a></li>
     <li><a class="fade-out-link" data-link="contact.php" >Contact</a></li>

@@ -100,13 +100,36 @@
   &.active{
     opacity: 1;
   }
+  .spinner-logo{
+    position: absolute;
+    top: 44vh;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+  }
+}
+
+.covervidz .loader-container .spinner-logo{
+  top: 42.4vh;
+}
+.tvp .loader-container .spinner-logo{
+  top: 43.7vh;
+}
+
+.leshia .loader-container .spinner-logo{
+  top: 44.5vh;
+}
+.vantworks .loader-container .spinner-logo{
+  top: 43.5vh;
 }
 
 .loader,
 .loader:after {
   border-radius: 50%;
-  width: 10em;
-  height: 10em;
+  width: 14em;
+  height: 14em;
 }
 .loader {
   margin: 17vh auto;

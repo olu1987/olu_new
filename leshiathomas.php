@@ -1,4 +1,7 @@
-<?php $title = 'Leshia Thomas | Digital Designer Portfolio Website' ?>
+<?php $title = 'Leshia Thomas | Digital Designer Portfolio Website';
+      $spinnerLogo = 'img/leshia-top-text.png';
+      $body = 'not-home lt'
+?>
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->

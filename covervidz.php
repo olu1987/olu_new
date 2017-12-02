@@ -1,4 +1,7 @@
-<?php $title = 'PHP Web Application' ?>
+<?php $title = 'PHP Web Application';
+      $spinnerLogo = 'img/covervidz-text-logo.png';
+      $body = 'not-home covervidz'
+?>
 <?php include 'header.php'; ?>
     <!-- Add your site or application content here -->
 <div class="container covervidz-bg">

@@ -1,4 +1,7 @@
-<?php $title = 'TVPlayer | Lazy-loading tvguide' ?>
+<?php $title = 'TVPlayer | Lazy-loading tvguide';
+      $spinnerLogo = 'img/tvp-logo-new-md.png';
+       $body = 'not-home tvp'
+?>
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->

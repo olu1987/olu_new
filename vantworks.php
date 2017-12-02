@@ -1,4 +1,7 @@
-<?php $title = 'Vantworks | Website Upsell Landing Pages' ?>
+<?php $title = 'Vantworks | Website Upsell Landing Pages';
+      $spinnerLogo = 'img/vantworks-logo-new.png';
+      $body = 'not-home vantworks'
+?>
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->

@@ -1,4 +1,7 @@
-<?php $title = '. LNT LONDON . | Ecommerce Fashion Website Build' ?>
+<?php $title = '. LNT LONDON . | Ecommerce Fashion Website Build';
+      $spinnerLogo = 'img/lnt-text.png';
+      $body = 'not-home lnt'
+?>
 <?php include 'header.php'; ?>
 <!-- Add your site or application content here -->
 <div class="container grid-images lnt-bg-blue">
