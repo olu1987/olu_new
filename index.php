@@ -1,5 +1,7 @@
-<?php $title = 'Web Developer from London' ?>
-<?php $body = 'home' ?>
+<?php $title = 'Web Developer from London';
+      $body = 'home';
+      $spinnerLogo = 'img/olu-meduoye-logo.png';
+?>
 <?php include 'header.php'; ?>
 
         <!-- Add your site or application content here -->

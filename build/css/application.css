@@ -579,7 +579,7 @@ a:hover, a:focus {
   border-right-color: #7995d3; }
 
 .covervidz .loader-container .spinner-logo {
-  top: 42.4vh; }
+  top: 42.6vh; }
 
 .covervidz .loader-container .loader {
   border-left-color: #5d3f7d;
@@ -621,9 +621,13 @@ a:hover, a:focus {
   height: 14em; }
 
 .loader {
-  margin: 17vh auto;
   font-size: 10px;
-  position: relative;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  top: 35vh;
   text-indent: -9999em;
   border-top: 1.1em solid rgba(159, 159, 159, 0.2);
   border-right: 1.1em solid rgba(0, 0, 0, 0.2);

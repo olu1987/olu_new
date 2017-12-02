@@ -1,4 +1,6 @@
-<?php $title = 'contact' ?>
+<?php $title = 'contact';
+      $spinnerLogo = 'img/olu-meduoye-logo.png';
+      ?>
 <?php include 'header.php'; ?>
 
 <div class="container">
