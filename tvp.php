@@ -15,9 +15,8 @@
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="text-uppercase">the challenge</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    "</p>
+                <p>TVPlayer ltd were doing a complete rebrand and required a complete rebuild for the frontend of their web platform.
+                I was approached by the team at TVPlayer in January 2017 and the project was delivered in March of the same year</p>
             </div>
         </div>
         <div class="row ">
@@ -28,15 +27,13 @@
         <div class="row task-description">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the approach</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
-                    because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
-                    consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to
-                    obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can
-                    procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise,
-                    except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy
-                    a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</p>
+                <p>
+                    With the design team at TVPlayer, I built a new UI for the web platform which was more aesthetically
+                    pleasing, user friendly, and feature rich, than the old frontend. The new web app included preview carousels that dynamically show current live content
+                    and live search functionality on the On demand, Watch and Channels pages.
+                    In essence what we wanted and what I delivered was a better looking, more intuitive web platform, with a considerably cleaner
+                    codebase, that greater took advantage of the data already being supplied to the frontend.
+                </p>
             </div>
         </div>
         <div class="row promo-row">
@@ -46,12 +43,11 @@
         <div class="row task-description">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the results</h2>
-                <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I
-                    will give you a complete account of the system, and expound the actual teachings of the great explorer of
-                    the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself,
-                    because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter
-                    consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to
-                    "</p>
+                <p>You can view the results of this project at <a class="gold-color" href="https://tvplayer.com">www.tvplayer.com</a>. Feedback from the team
+                and from users was overwhelmingly positive and the platforms new look has recieved rave reviews. I really enjoyed and got
+                stuck into this project as I knew it would be affecting thousands of users every single day, and the team at TVPlayer were
+                great to work with.
+                </p>
             </div>
         </div>
         <div class="row portfolio">

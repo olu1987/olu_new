@@ -36,7 +36,7 @@
                     The major issue with the old TV guide on the TVPlayer web platform was that all of the 100+ channels were being loaded immediately
                     to the page which was heavily affecting the load time. Also there wasn't any way of moving forward in days even though the EPG
                     (Electronic Program Guide) data for the guide included a weeks worth of programming. So using Ajax requests, I built a simple system that would load chunks of
-                    channels into the page as a user scrolled. I also built the php backend and ui for a day navigation that would allow the user
+                    channels into the page as a user scrolled. I also built the php - Zend framework  backend and ui for a day navigation that would allow the user
                     to skip to other days of the week, and I added a timeline to the scrolling section of the TV guide to improve usability.
                 </p>
             </div>
