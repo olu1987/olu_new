@@ -65,7 +65,7 @@
         <div class="col-md-10 col-md-offset-1">
             <h2 class="text-uppercase">the results</h2>
             <p>You can view the results for yourself at <a target="_blank" href="http://lntlondon.com">www.lntlondon.com</a>. The feedback
-            about the website has been fantastic and the team were very pleased by what we were able to deliver. I'm continuing
+            about the website has been fantastic and the team were very pleased by what I was able to deliver. I'm continuing
             to work with LNT LONDON as they grow their business and it was, and continues to be a pleasure working with them.</p>
         </div>
     </div>

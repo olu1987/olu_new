@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857d9b03-54d3-4ec4-b334-cd1f2d6420b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lnt.php" afterPath="$PROJECT_DIR$/lnt.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lnt.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lnt.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lnt.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="66" column="74" lean-forward="false" selection-start-line="66" selection-start-column="74" selection-end-line="66" selection-end-column="74" />
+            <state relative-caret-position="68">
+              <caret line="67" column="89" lean-forward="false" selection-start-line="67" selection-start-column="89" selection-end-line="67" selection-end-column="89" />
               <folding>
                 <element signature="e#1958#1964#0#HTML" expanded="true" />
               </folding>
@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -189,12 +189,12 @@
         <option value="$PROJECT_DIR$/sass/modules/_page-components.scss" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/leshiathomas.php" />
-        <option value="$PROJECT_DIR$/lnt.php" />
         <option value="$PROJECT_DIR$/tvp.php" />
         <option value="$PROJECT_DIR$/tvptvguide.php" />
         <option value="$PROJECT_DIR$/vantworks.php" />
         <option value="$PROJECT_DIR$/covervidz.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/lnt.php" />
       </list>
     </option>
   </component>
@@ -465,12 +465,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511007851483</updated>
       <workItem from="1511007853509" duration="56171000" />
-      <workItem from="1511701914953" duration="97751000" />
+      <workItem from="1511701914953" duration="97897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153922000" />
+    <option name="totallyTimeSpent" value="154068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -845,16 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lnt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="74" lean-forward="false" selection-start-line="66" selection-start-column="74" selection-end-line="66" selection-end-column="74" />
-          <folding>
-            <element signature="e#1958#1964#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tvp.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -905,6 +895,16 @@
         <state relative-caret-position="119">
           <caret line="84" column="94" lean-forward="false" selection-start-line="84" selection-start-column="94" selection-end-line="84" selection-end-column="94" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lnt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="67" column="89" lean-forward="false" selection-start-line="67" selection-start-column="89" selection-end-line="67" selection-end-column="89" />
+          <folding>
+            <element signature="e#1958#1964#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
