@@ -116,6 +116,7 @@
     border-left-color: $lnt-blue;
     border-top-color:$lnt-blue;
     border-bottom-color: $lnt-blue;
+    border-right-color: #7995d3;
   }
 }
 
@@ -127,6 +128,7 @@
      border-left-color: $covervidz-purple;
      border-top-color:$covervidz-purple;
      border-bottom-color: $covervidz-purple;
+     border-right-color: #420d7d;
   }
 }
 .tvp .loader-container{
@@ -137,21 +139,32 @@
     border-left-color: $tvp-red;
     border-top-color: $tvp-red;
     border-bottom-color: $tvp-red;
+    border-right-color: #ff0000;
   }
 }
 
-.leshia .loader-container{
+.lt .loader-container{
   .spinner-logo{
     top: 44.5vh;
   }
   .loader{
     border-left-color: $leshia-yellow;
-    border-top-color: $leshia-yellow;;
-    border-bottom-color: $leshia-yellow;;
+    border-top-color: $leshia-yellow;
+    border-bottom-color: $leshia-yellow;
+    border-right-color: #ffd284;
   }
 }
-.vantworks .loader-container .spinner-logo{
-  top: 43.3vh;
+.vantworks .loader-container{
+  .spinner-logo{
+    top: 43.3vh;
+  }
+
+  .loader{
+    border-left-color: $vantworks-grey;
+    border-top-color: $vantworks-grey;
+    border-bottom-color: $vantworks-grey;
+    border-right-color: #c987d2;
+  }
 }
 
 .loader,

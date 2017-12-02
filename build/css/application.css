@@ -566,7 +566,8 @@ a:hover, a:focus {
 .lnt .loader-container .loader {
   border-left-color: #b8c9d3;
   border-top-color: #b8c9d3;
-  border-bottom-color: #b8c9d3; }
+  border-bottom-color: #b8c9d3;
+  border-right-color: #7995d3; }
 
 .covervidz .loader-container .spinner-logo {
   top: 42.4vh; }
@@ -574,7 +575,8 @@ a:hover, a:focus {
 .covervidz .loader-container .loader {
   border-left-color: #5d3f7d;
   border-top-color: #5d3f7d;
-  border-bottom-color: #5d3f7d; }
+  border-bottom-color: #5d3f7d;
+  border-right-color: #420d7d; }
 
 .tvp .loader-container .spinner-logo {
   top: 43.7vh; }
@@ -582,18 +584,26 @@ a:hover, a:focus {
 .tvp .loader-container .loader {
   border-left-color: #FE494E;
   border-top-color: #FE494E;
-  border-bottom-color: #FE494E; }
+  border-bottom-color: #FE494E;
+  border-right-color: #ff0000; }
 
-.leshia .loader-container .spinner-logo {
+.lt .loader-container .spinner-logo {
   top: 44.5vh; }
 
-.leshia .loader-container .loader {
+.lt .loader-container .loader {
   border-left-color: #fce2a9;
   border-top-color: #fce2a9;
-  border-bottom-color: #fce2a9; }
+  border-bottom-color: #fce2a9;
+  border-right-color: #ffd284; }
 
 .vantworks .loader-container .spinner-logo {
   top: 43.3vh; }
+
+.vantworks .loader-container .loader {
+  border-left-color: #d2c2c3;
+  border-top-color: #d2c2c3;
+  border-bottom-color: #d2c2c3;
+  border-right-color: #c987d2; }
 
 .loader,
 .loader:after {
