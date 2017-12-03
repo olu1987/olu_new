@@ -22,8 +22,11 @@
 <body class="<?php
          if(isset($body)){ echo $body;}else{ echo'not-home';} ?>">
 <div class="text-center loader-container active">
-    <?php if(isset($spinnerLogo)): ?><img class="spinner-logo" src="<?= $spinnerLogo ?>"/><?php endif; ?>
+    <?php
+    $logoBg = isset($spinnerLogo) ?  $spinnerLogo : '';
+    ?>
     <div class="loader"></div>
+    <div class="loader-bg" style="background: url(<?= $logoBg ?>);"></div>
 </div>
 <div class="fade-out-container hidden">
 

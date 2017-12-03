@@ -575,17 +575,11 @@ a:hover, a:focus {
   border-bottom-color: #b8c9d3;
   border-right-color: #7995d3; }
 
-.covervidz .loader-container .spinner-logo {
-  top: 42.6vh; }
-
 .covervidz .loader-container .loader {
   border-left-color: #5d3f7d;
   border-top-color: #5d3f7d;
   border-bottom-color: #5d3f7d;
   border-right-color: #420d7d; }
-
-.tvp .loader-container .spinner-logo {
-  top: 43.7vh; }
 
 .tvp .loader-container .loader {
   border-left-color: #FE494E;
@@ -593,17 +587,14 @@ a:hover, a:focus {
   border-bottom-color: #FE494E;
   border-right-color: #ff0000; }
 
-.lt .loader-container .spinner-logo {
-  top: 44.5vh; }
+.tvp .loader-container .loader-bg {
+  background-size: 90% !important; }
 
 .lt .loader-container .loader {
   border-left-color: #fce2a9;
   border-top-color: #fce2a9;
   border-bottom-color: #fce2a9;
   border-right-color: #ffd284; }
-
-.vantworks .loader-container .spinner-logo {
-  top: 43.3vh; }
 
 .vantworks .loader-container .loader {
   border-left-color: #d2c2c3;
@@ -634,7 +625,29 @@ a:hover, a:focus {
   -ms-transform: translateZ(0);
   transform: translateZ(0);
   -webkit-animation: load8 1.1s infinite linear;
-  animation: load8 1.1s infinite linear; }
+  animation: load8 1.1s infinite linear;
+  z-index: 10; }
+
+.loader-bg {
+  font-size: 10px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  top: 35vh;
+  text-indent: -9999em;
+  border-top: 1.1em solid rgba(159, 159, 159, 0.2);
+  border-right: 1.1em solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1.1em solid rgba(159, 159, 159, 0.2);
+  border-left: 1.1em solid rgba(159, 159, 159, 0.2);
+  background: red;
+  width: 14em;
+  height: 14em;
+  border-radius: 50%;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important; }
 
 @-webkit-keyframes load8 {
   0% {

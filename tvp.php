@@ -5,7 +5,7 @@
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->
-    <div class="container grid-images  tvp-red-bg">
+    <div class="container tvp-red-bg">
         <div class="row pt-20">
             <div class="col-md-6 col-md-offset-3 tvp-header text-center">
                 <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
