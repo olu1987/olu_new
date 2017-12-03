@@ -72,7 +72,7 @@
     <div class="row portfolio">
         <div class="col-md-12">
             <div class="tile col-md-4 col-sm-12 tech text-uppercase">
-                <h1 class="text-center">Technology</h1><br>
+                <h1>Technology</h1><br>
                 <ul class="list-inline">
                     <li> - htm5 -</li>
                     <li> - css3 -</li>

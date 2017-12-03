@@ -472,6 +472,8 @@ a:hover, a:focus {
     cursor: default;
     display: block;
     padding-top: 80px; }
+    .tile.tech h1 {
+      padding-left: 15px; }
     .tile.tech ul {
       padding: 15px; }
       .tile.tech ul li {
