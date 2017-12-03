@@ -186,8 +186,7 @@
   padding-top: 0 !important; }
 
 html, body {
-  height: 100%;
-  background: #cccccc; }
+  height: 100%; }
 
 body {
   font-family: 'Roboto Condensed', sans-serif; }
@@ -368,9 +367,9 @@ a:hover, a:focus {
   position: relative; }
 
 .about {
-  padding: 30px 0 45px;
+  padding: 50px 0 45px;
   color: #ffffff;
-  margin-top: -5px;
+  margin-top: -20px;
   margin-bottom: -5px; }
   .about p {
     font-size: 17px; }
@@ -526,10 +525,6 @@ a:hover, a:focus {
   margin-left: -15px;
   margin-right: -15px;
   overflow: hidden; }
-  .skills-wrap.active .col-sm-6.text-left {
-    left: 0; }
-  .skills-wrap.active .col-sm-6.text-right {
-    right: 0; }
 
 .skills .col-sm-6 {
   height: 330px;
@@ -537,9 +532,9 @@ a:hover, a:focus {
   position: absolute;
   z-index: 10; }
   .skills .col-sm-6.text-left {
-    left: -200px; }
+    left: 0; }
   .skills .col-sm-6.text-right {
-    right: -200px; }
+    right: 0; }
   .skills .col-sm-6.lower {
     top: 330px; }
 
