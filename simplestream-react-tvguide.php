@@ -18,7 +18,7 @@ $body = 'not-home'
                 <p>
                     Simplestream, the sister company of TVPlayer, required a TV guide for a small online streaming service
                     and also a live TV page where a user could watch content. I used <span class="gold-color text-uppercase">React js</span>
-                    to build the UI for both pages. I was approached by Simplestream for the project in
+                    to build the UI for both pages. I was approached by the team at Simplestream for the project in
                     November 2017 and it was delivered in the same month.
                 </p>
             </div>
@@ -61,6 +61,7 @@ $body = 'not-home'
                 <div class="tile col-md-4 col-sm-12 tech text-uppercase simplestream-solid-bg">
                     <h1>Technology</h1><br>
                     <ul class="list-inline">
+                        <li class="gold-color"> - React js -</li>
                         <li> - htm5 -</li>
                         <li> - css3 -</li>
                         <li> - sass -</li>
@@ -68,34 +69,39 @@ $body = 'not-home'
                         <li> - javascript -</li>
                         <li> - jquery -</li>
                         <li> - node js -</li>
-                        <li> - gulp -</li>
+                        <li> - grunt -</li>
+                        <li> - browserify -</li>
                         <li> - php - </li>
                         <li> - zend - </li>
                         <li> - laravel - </li>
                     </ul>
                 </div>
-                <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
-                    <img class="img-responsive" src="img/leshia-top-text.png"/>
+                <a data-link="npvr.php" class="tile col-md-4 col-sm-6 tvplayer three fade-out-link">
+                    <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                     <div class="title-wrap">
                         <h3>
                             <small>
-                                previous project
+                                next project
                             </small><br>
-                            leshia Thomas<br>
+                            Tvplayer<br>
                             <small>
-                                digital designer portfolio website
+                                npvr frontend
                             </small>
                         </h3>
 
                     </div>
                 </a>
-                <a data-link="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two fade-out-link">
+                <a data-link="tvp-react-tvguide.php" class="tile col-md-4 col-sm-6 tvplayer four fade-out-link">
                     <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                     <div class="title-wrap">
                         <h3>
-                            <small>next project</small><br>
+                            <small>
+                                project after next
+                            </small><br>
                             Tvplayer<br>
-                            <small>website build and rebrand</small>
+                            <small>
+                                react js tvguide
+                            </small>
                         </h3>
 
                     </div>

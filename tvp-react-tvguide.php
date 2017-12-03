@@ -37,7 +37,10 @@ $body = 'not-home tvp'
                     The recording service TV Guide was in my opinion a perfect use case for React. The component architecture of the javascript
                     framework made it easy to pass data down and render the channels and programs perfectly. Also Reacts life cycle methods really
                     made updating the DOM a lot faster, easier and more efficient than the traditional queries a library like JQuery would have to make
-                    to carry out similar procedures.
+                    to carry out similar procedures. In addition to react I used Vanilla javascript, and JQuery to add the other features required for
+                    the TV guide. I find React actually plays nicely with other libraries like JQuery since react mainly intends to be the V in MVC.
+                    Also since I was using Browserify to bundle my code and browserify comes with babel compiler out of the box these days, I took the opportunity to utilise some
+                    ES6 features of javascript i.e arrow functions, classes, let & const etc.
                 </p>
             </div>
         </div>
@@ -63,6 +66,8 @@ $body = 'not-home tvp'
                     <h1>Technology</h1><br>
                     <ul class="list-inline">
                         <li class="gold-color"> - React js -</li>
+                        <li> - Browserify -</li>
+                        <li> - Babel -</li>
                         <li> - htm5 -</li>
                         <li> - css3 -</li>
                         <li> - sass -</li>
@@ -76,28 +81,32 @@ $body = 'not-home tvp'
                         <li> - laravel - </li>
                     </ul>
                 </div>
-                <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
-                    <img class="img-responsive" src="img/leshia-top-text.png"/>
+                <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
+                    <img class="img-responsive" src="img/lnt-text.png"/>
                     <div class="title-wrap">
                         <h3>
                             <small>
-                                previous project
+                                next project
                             </small><br>
-                            leshia Thomas<br>
+                            lnt london<br>
                             <small>
-                                digital designer portfolio website
+                                ecommerce fashion website build
                             </small>
                         </h3>
 
                     </div>
                 </a>
-                <a data-link="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two fade-out-link">
+                <a data-link="npvr.php" class="tile col-md-4 col-sm-6 tvplayer three fade-out-link">
                     <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                     <div class="title-wrap">
                         <h3>
-                            <small>next project</small><br>
+                            <small>
+                                previous project
+                            </small><br>
                             Tvplayer<br>
-                            <small>website build and rebrand</small>
+                            <small>
+                                npvr frontend
+                            </small>
                         </h3>
 
                     </div>

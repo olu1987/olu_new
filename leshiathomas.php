@@ -71,21 +71,6 @@
                         <li> - photoshop -</li>
                     </ul>
                 </div>
-                <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
-                    <img class="img-responsive" src="img/lnt-text.png"/>
-                    <div class="title-wrap">
-                        <h3>
-                            <small>
-                                previous project
-                            </small><br>
-                            lnt london<br>
-                            <small>
-                                ecommerce fashion website build
-                            </small>
-                        </h3>
-
-                    </div>
-                </a>
                 <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
                     <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                     <div class="title-wrap">
@@ -96,6 +81,20 @@
                             Tvplayer<br>
                             <small>
                                 lazy-loading tvguide
+                            </small>
+                        </h3>
+                    </div>
+                </a>
+                <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
+                    <img class="img-responsive" src="img/lnt-text.png"/>
+                    <div class="title-wrap">
+                        <h3>
+                            <small>
+                                previous project
+                            </small><br>
+                            lnt london<br>
+                            <small>
+                                ecommerce fashion website build
                             </small>
                         </h3>
 

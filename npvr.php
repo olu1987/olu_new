@@ -22,12 +22,12 @@ $body = 'not-home tvp'
                 </p>
             </div>
         </div>
-        <div class="row">
+        <div class="row promo-tvp">
             <div class="col-md-8 col-md-offset-2">
                 <img class="img-responsive center" src="img/recordings-page.jpg"/>
             </div>
         </div>
-        <div class="row pt-30">
+        <div class="row pt-30 promo-tvp">
             <div class="col-md-4 col-md-offset-2">
                 <img class="img-responsive center" src="img/recordings-page-2.jpg"/>
             </div>
@@ -42,7 +42,7 @@ $body = 'not-home tvp'
                 <h2 class="text-uppercase">the approach</h2>
                 <p>
                     There were major changes to be made on the web platform and new components to be built on the frontend.
-                    Working with the design team, I built a page where each user would manage their recordings. This page allowed users
+                    Working with the design team and a group of experienced backend developers, I built a page where each user would manage their recordings. This page allowed users
                     to view all recorded episodes of a series, view scheduled episodes, delete episodes etc. Also the user would need to be able
                     to record content from the existing On Demand page. While adding this ability to the On Demand section I took the
                     opportunity to rebuild the UI organising the episodes properly by series. This was the first time TVPlayer have had
@@ -52,7 +52,7 @@ $body = 'not-home tvp'
                 </p>
             </div>
         </div>
-        <div class="row tvp-solid-bg">
+        <div class="row tvp-solid-bg promo-tvp">
             <div class="col-md-10 col-md-offset-1">
                 <img class="img-responsive center  mt-30" src="img/how-to-record.jpg"/>
             </div>
@@ -85,28 +85,32 @@ $body = 'not-home tvp'
                         <li> - laravel - </li>
                     </ul>
                 </div>
-                <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
-                    <img class="img-responsive" src="img/leshia-top-text.png"/>
+                <a data-link="tvp-react-tvguide.php" class="tile col-md-4 col-sm-6 tvplayer four fade-out-link">
+                    <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                     <div class="title-wrap">
                         <h3>
                             <small>
-                                previous project
+                                next project
                             </small><br>
-                            leshia Thomas<br>
+                            Tvplayer<br>
                             <small>
-                                digital designer portfolio website
+                                react js tvguide
                             </small>
                         </h3>
 
                     </div>
                 </a>
-                <a data-link="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two fade-out-link">
-                    <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
+                <a data-link="simplestream-react-tvguide.php" class="tile col-md-4 col-sm-6 ss fade-out-link">
+                    <img class="img-responsive" src="img/simplestream-logo.png"/>
                     <div class="title-wrap">
                         <h3>
-                            <small>next project</small><br>
-                            Tvplayer<br>
-                            <small>website build and rebrand</small>
+                            <small>
+                                previous project
+                            </small><br>
+                            simplestream<br>
+                            <small>
+                                react js tvguide and live page
+                            </small>
                         </h3>
 
                     </div>

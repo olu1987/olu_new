@@ -65,6 +65,21 @@
                         <li> - youtube api - </li>
                     </ul>
                 </div>
+                <a data-link="simplestream-react-tvguide.php" class="tile col-md-4 col-sm-6 ss fade-out-link">
+                    <img class="img-responsive" src="img/simplestream-logo.png"/>
+                    <div class="title-wrap">
+                        <h3>
+                            <small>
+                                next project
+                            </small><br>
+                            simplestream<br>
+                            <small>
+                                react js tvguide and live page
+                            </small>
+                        </h3>
+
+                    </div>
+                </a>
                 <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">
                     <div class="col-md-12 text-center vantworks-logo-grid">
                         <img class="img-responsive vantworks-logo" src="img/vantworks-logo.png">
@@ -81,21 +96,6 @@
                                 Website upsell Landing pages
                             </small>
                         </h3>
-                    </div>
-                </a>
-                <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
-                    <img class="img-responsive" src="img/lnt-text.png"/>
-                    <div class="title-wrap">
-                        <h3>
-                            <small>
-                                next project
-                            </small><br>
-                            lnt london<br>
-                            <small>
-                                ecommerce fashion website build
-                            </small>
-                        </h3>
-
                     </div>
                 </a>
             </div>

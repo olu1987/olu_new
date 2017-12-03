@@ -70,17 +70,6 @@
                         <li> - zend - </li>
                     </ul>
                 </div>
-                <a data-link="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two fade-out-link">
-                    <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
-                    <div class="title-wrap">
-                        <h3>
-                            <small>previous project</small><br>
-                            Tvplayer<br>
-                            <small>website build and rebrand</small>
-                        </h3>
-
-                    </div>
-                </a>
                 <a data-link="covervidz.php" class="tile col-md-4 col-sm-6 covervidz fade-out-link">
                     <img class="img-responsive" src="img/covervidz-text-logo.png"/>
                     <div class="title-wrap">
@@ -93,6 +82,17 @@
                                 php web application
                             </small>
                         </h3>
+                    </div>
+                </a>
+                <a data-link="tvp.php" class="tile col-md-4 col-sm-6 tvplayer two fade-out-link">
+                    <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
+                    <div class="title-wrap">
+                        <h3>
+                            <small>previous project</small><br>
+                            Tvplayer<br>
+                            <small>website build and rebrand</small>
+                        </h3>
+
                     </div>
                 </a>
             </div>

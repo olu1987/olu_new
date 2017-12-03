@@ -692,6 +692,9 @@ a:hover, a:focus {
 .promo-lnt img {
   box-shadow: 0 4px 8px 0 rgba(141, 141, 141, 0.4); }
 
+.promo-tvp img {
+  box-shadow: 0 4px 8px 0 #9c1717; }
+
 .task-description {
   padding-top: 50px;
   padding-bottom: 50px; }

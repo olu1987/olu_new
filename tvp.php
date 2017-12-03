@@ -68,20 +68,6 @@
                         <li> - laravel - </li>
                     </ul>
                 </div>
-                <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
-                    <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
-                    <div class="title-wrap">
-                        <h3>
-                            <small>
-                                previous project
-                            </small><br>
-                            Tvplayer<br>
-                            <small>
-                                lazy-loading tvguide
-                            </small>
-                        </h3>
-                    </div>
-                </a>
                 <a data-link="vantworks.php" class="tile col-md-4 col-sm-6 vantworks fade-out-link">
                     <div class="col-md-12 text-center vantworks-logo-grid">
                         <img class="img-responsive vantworks-logo" src="img/vantworks-logo.png">
@@ -97,6 +83,20 @@
                             <br>
                             <small>
                                 Website upsell Landing pages
+                            </small>
+                        </h3>
+                    </div>
+                </a>
+                <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
+                    <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
+                    <div class="title-wrap">
+                        <h3>
+                            <small>
+                                previous project
+                            </small><br>
+                            Tvplayer<br>
+                            <small>
+                                lazy-loading tvguide
                             </small>
                         </h3>
                     </div>
