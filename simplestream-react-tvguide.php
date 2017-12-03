@@ -16,8 +16,10 @@ $body = 'not-home'
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="text-uppercase">the challenge</h2>
                 <p>
-                    TVPlayer&copy; ltd, a growing company in the online TV streaming sector, required a new TV guide for their web platform due to their current guide being slow in terms of load time, and not
-                    feature rich. I was approached by the the team at TVPlayer in March 2017 about this project and it was delivered in April of the same year.
+                    Simplestream&copy;, the sister company of TVPlayer&copy;, required a TV guide for a small online streaming service
+                    and also a live TV page where a user could watch content. I used <span class="gold-color text-uppercase">React js</span>
+                    to build the UI for both pages. I was approached by Simplestream&copy; for the project in
+                    November 2017 and it was delivered in the same month.
                 </p>
             </div>
         </div>
@@ -32,11 +34,10 @@ $body = 'not-home'
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the approach</h2>
                 <p>
-                    The major issue with the old TV guide on the TVPlayer web platform was that all of the 100+ channels were being loaded immediately
-                    to the page which was heavily affecting the load time. Also there wasn't any way of moving forward in days even though the EPG
-                    (Electronic Program Guide) data for the guide included a weeks worth of programming. So using Ajax requests, I built a simple system that would load chunks of
-                    channels into the page as a user scrolled. I also built the php - Zend framework  backend and ui for a day navigation that would allow the user
-                    to skip to other days of the week, and I added a timeline to the scrolling section of the TV guide to improve usability.
+                    Seeing the TV guide I had <a target="_blank" class="gold-color" href="tvp-react-tvguide.php">built for TVPlayer&copy;</a>,
+                    Simplestream&copy; asked for something very similar to be built for their project. Once again I used React to great effect
+                    and it allowed me to easily build two highly intuitive UIs that updated using realtime data. I worked closely with the design
+                    team to ensure the platform delivered in terms of its look and feel as well as performance.
                 </p>
             </div>
         </div>
@@ -49,11 +50,9 @@ $body = 'not-home'
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the results</h2>
                 <p>
-                    You can review the results for yourself at <a class="gold-color" target="_blank" href="http://tvplayer.com/tvguide">www.tvplayer.com/tvguide</a>. The team at
-                    TVPlayer were incredibly happy with the final results of the project, and it is widely regarded as not only
-                    the best TV guide they have ever had on their web platform, but also potentially the best TV guide on any of their platforms
-                    including their mobile and TV apps. I have a great relationship with the team at TVPlayer and I hope to work with
-                    them again in the future.
+                    The Simplestream&copy; team were very impressed by the work I was able to deliver and the speed at which I was
+                    able to do so. People also really like the look and feel of the pages I built. When Simplestream&copy; release the
+                    project I will include a link here.
                 </p>
             </div>
         </div>

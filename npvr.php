@@ -16,7 +16,7 @@ $body = 'not-home tvp'
                 <h2 class="text-uppercase">the challenge</h2>
                 <p>
                     TVPlayer required the building of a Network Personal Video Recording (NPVR), system on their online platform.
-                    I was asked to build the front end for this project in August 2017. The project was delivered in October of the
+                    I was asked to build the front end for this project in August 2017. The project was delivered in November of the
                     same year and is currently in beta testing hence it is not viewable for the public. As soon as it is I will include a link
                     to my work.
                 </p>

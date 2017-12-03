@@ -15,8 +15,11 @@ $body = 'not-home tvp'
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="text-uppercase">the challenge</h2>
                 <p>
-                    TVPlayer&copy; ltd, a growing company in the online TV streaming sector, required a new TV guide for their web platform due to their current guide being slow in terms of load time, and not
-                    feature rich. I was approached by the the team at TVPlayer in March 2017 about this project and it was delivered in April of the same year.
+                    As part of TVPlayers Network Personal Video Recording (NPVR) project, I was tasked to enhance and rebuild the current TV guide using
+                    <span class="gold-color text-uppercase">React js</span>. This would allow the guide to update its data in real time. Also I was asked to build into the TV guide functionality that
+                    would allow a user to record, cancel and view recordings. The project started in August, and was delivered in November of the
+                    same year. It is currently in beta testing hence it is not viewable for the public. As soon as it is I will include a link
+                    to my work.
                 </p>
             </div>
         </div>
@@ -31,11 +34,10 @@ $body = 'not-home tvp'
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the approach</h2>
                 <p>
-                    The major issue with the old TV guide on the TVPlayer web platform was that all of the 100+ channels were being loaded immediately
-                    to the page which was heavily affecting the load time. Also there wasn't any way of moving forward in days even though the EPG
-                    (Electronic Program Guide) data for the guide included a weeks worth of programming. So using Ajax requests, I built a simple system that would load chunks of
-                    channels into the page as a user scrolled. I also built the php - Zend framework  backend and ui for a day navigation that would allow the user
-                    to skip to other days of the week, and I added a timeline to the scrolling section of the TV guide to improve usability.
+                    The recording service TV Guide was in my opinion a perfect use case for React. The component architecture of the javascript
+                    framework made it easy to pass data down and render the channels and programs perfectly. Also Reacts life cycle methods really
+                    made updating the DOM a lot faster, easier and more efficient than the traditional queries a library like JQuery would have to make
+                    to carry out similar procedures.
                 </p>
             </div>
         </div>
@@ -48,11 +50,10 @@ $body = 'not-home tvp'
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the results</h2>
                 <p>
-                    You can review the results for yourself at <a class="gold-color" target="_blank" href="http://tvplayer.com/tvguide">www.tvplayer.com/tvguide</a>. The team at
-                    TVPlayer were incredibly happy with the final results of the project, and it is widely regarded as not only
-                    the best TV guide they have ever had on their web platform, but also potentially the best TV guide on any of their platforms
-                    including their mobile and TV apps. I have a great relationship with the team at TVPlayer and I hope to work with
-                    them again in the future.
+                    As I have said, the results can't be viewed yet as the project is still in beta testing but feedback on the project
+                    from the team at TVPlayer and beta users has been very good so far. I really enjoyed using React for this project
+                    and it delivered some great results allowing me to do things that would have been very difficult via Vanilla javascript or
+                    JQuery. As soon as the project is open to the public I will include a link so you can check out my work for yourself.
                 </p>
             </div>
         </div>
@@ -61,6 +62,7 @@ $body = 'not-home tvp'
                 <div class="tile col-md-4 col-sm-12 tech text-uppercase tvp-solid-bg">
                     <h1>Technology</h1><br>
                     <ul class="list-inline">
+                        <li class="gold-color"> - React js -</li>
                         <li> - htm5 -</li>
                         <li> - css3 -</li>
                         <li> - sass -</li>
