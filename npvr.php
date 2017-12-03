@@ -49,7 +49,7 @@ $body = 'not-home tvp'
         </div>
         <div class="row tvp-solid-bg">
             <div class="col-md-10 col-md-offset-1">
-                <img class="img-responsive center pt-20" src="img/how-to-record.jpg"/>
+                <img class="img-responsive center  mt-30" src="img/how-to-record.jpg"/>
             </div>
         </div>
         <div class="row task-description tvp-solid-bg">
