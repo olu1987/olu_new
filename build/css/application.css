@@ -600,7 +600,7 @@ a:hover, a:focus {
   border-left-color: #d2c2c3;
   border-top-color: #d2c2c3;
   border-bottom-color: #d2c2c3;
-  border-right-color: #c987d2; }
+  border-right-color: #a3a3a3; }
 
 .loader,
 .loader:after {
@@ -645,7 +645,7 @@ a:hover, a:focus {
   width: 14em;
   height: 14em;
   border-radius: 50%;
-  background-size: contain !important;
+  background-size: 90% !important;
   background-repeat: no-repeat !important;
   background-position: center center !important; }
 
