@@ -1,4 +1,6 @@
-<?php $title = 'contact' ?>
+<?php $title = 'contact';
+$spinnerLogo = 'img/olu-meduoye-logo.png';
+?>
 <?php include 'header.php'; ?>
 <div class="container text-center pt-50">
 <?php
@@ -97,7 +99,7 @@ if(isset($_POST['email'])) {
     @mail($email_to, $email_subject, $email_message, $headers);
     ?>
 
-    <p>Thank you for contacting me. I will be in touch with you very soon.</p>
+    <p>Thanks for getting in touch. I'll get back to you as soon as possible. </p>
     <a href="index.php">Home</a>
 
     <?php

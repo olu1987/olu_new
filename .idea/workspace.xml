@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857d9b03-54d3-4ec4-b334-cd1f2d6420b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/modules/_page-components.scss" afterPath="$PROJECT_DIR$/sass/modules/_page-components.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/send_form_email.php" afterPath="$PROJECT_DIR$/send_form_email.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_page-components.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_page-components.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/modules/_page-components.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -74,8 +74,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="72" column="58" lean-forward="false" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="58" />
+            <state relative-caret-position="153">
+              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="send_form_email.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/send_form_email.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="101" column="40" lean-forward="false" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -106,16 +116,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="129">
               <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_overrides.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/base/_overrides.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -160,7 +160,6 @@
         <option value="$PROJECT_DIR$/js/utils.js" />
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/sass/modules/_nav.scss" />
-        <option value="$PROJECT_DIR$/send_form_email.php" />
         <option value="$PROJECT_DIR$/js/home.js" />
         <option value="$PROJECT_DIR$/sass/layout/_header.scss" />
         <option value="$PROJECT_DIR$/footer.php" />
@@ -184,6 +183,7 @@
         <option value="$PROJECT_DIR$/tvp.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/sass/modules/_page-components.scss" />
+        <option value="$PROJECT_DIR$/send_form_email.php" />
       </list>
     </option>
   </component>
@@ -454,12 +454,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511007851483</updated>
       <workItem from="1511007853509" duration="56171000" />
-      <workItem from="1511701914953" duration="103570000" />
+      <workItem from="1511701914953" duration="103758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159741000" />
+    <option name="totallyTimeSpent" value="159929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -690,14 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/send_form_email.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="99" column="37" lean-forward="false" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/layout/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -806,14 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="72" column="58" lean-forward="false" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/base/_overrides.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -886,6 +870,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="191" column="48" lean-forward="false" selection-start-line="191" selection-start-column="48" selection-end-line="191" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_form_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="101" column="40" lean-forward="false" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
           <folding />
         </state>
       </provider>
