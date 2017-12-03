@@ -40,7 +40,7 @@
         <div class="col-md-10 col-md-offset-1">
             <h2 class="text-uppercase">approach</h2>
             <p>Working closely with their design team, we were able to build a website that would do
-            everything they needed and more. Unique features of this project include the integration of the Paypal&copy;
+            everything they needed and more. Unique features of this project include the integration of the Paypal
             api payment system, and also angular js for dynamic item pages. The project also required me to flex some of my
             backend coding muscles as the platform was built using php and a mysql database. I tried to ensure that the website
             would look beautiful while maximizing functionality and usabilty. And I tried to connect as much as I could with the brand

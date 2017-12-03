@@ -15,7 +15,7 @@
         <div class="row mb-50 text-center">
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="text-uppercase">the challenge</h2>
-                <p>TVPlayer&copy; ltd were doing a complete rebrand and required a complete rebuild for the frontend of their web platform.
+                <p>TVPlayer ltd were doing a complete rebrand and required a complete rebuild for the frontend of their web platform.
                 I was approached by the team at TVPlayer in January 2017 and the project was delivered in March of the same year</p>
             </div>
         </div>

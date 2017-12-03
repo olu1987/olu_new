@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857d9b03-54d3-4ec4-b334-cd1f2d6420b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/npvr.php" afterPath="$PROJECT_DIR$/npvr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/covervidz.php" afterPath="$PROJECT_DIR$/covervidz.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lnt.php" afterPath="$PROJECT_DIR$/lnt.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplestream-react-tvguide.php" afterPath="$PROJECT_DIR$/simplestream-react-tvguide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvp-react-tvguide.php" afterPath="$PROJECT_DIR$/tvp-react-tvguide.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvp.php" afterPath="$PROJECT_DIR$/tvp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvptvguide.php" afterPath="$PROJECT_DIR$/tvptvguide.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vantworks.php" afterPath="$PROJECT_DIR$/vantworks.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,17 +35,9 @@
       <file leaf-file-name="simplestream-react-tvguide.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simplestream-react-tvguide.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-              <folding>
-                <element signature="e#808#814#0#HTML" expanded="true" />
-                <element signature="e#846#852#0#HTML" expanded="true" />
-                <element signature="e#1136#1142#0#HTML" expanded="true" />
-                <element signature="e#1850#1856#0#HTML" expanded="true" />
-                <element signature="e#1894#1900#0#HTML" expanded="true" />
-                <element signature="e#2776#2782#0#HTML" expanded="true" />
-                <element signature="e#2987#2993#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="52" column="65" lean-forward="true" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -396,12 +390,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511007851483</updated>
       <workItem from="1511007853509" duration="56171000" />
-      <workItem from="1511701914953" duration="116191000" />
+      <workItem from="1511701914953" duration="116512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172362000" />
+    <option name="totallyTimeSpent" value="172683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -834,17 +828,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simplestream-react-tvguide.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-          <folding>
-            <element signature="e#808#814#0#HTML" expanded="true" />
-            <element signature="e#846#852#0#HTML" expanded="true" />
-            <element signature="e#1136#1142#0#HTML" expanded="true" />
-            <element signature="e#1850#1856#0#HTML" expanded="true" />
-            <element signature="e#1894#1900#0#HTML" expanded="true" />
-            <element signature="e#2776#2782#0#HTML" expanded="true" />
-            <element signature="e#2987#2993#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="52" column="65" lean-forward="true" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>

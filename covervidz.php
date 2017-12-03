@@ -32,7 +32,7 @@
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the approach</h2>
                 <p>
-                    Using the YouTube&copy; API and a mysql database I was able to build a web application that fulfilled all of the
+                    Using the YouTube API and a mysql database I was able to build a web application that fulfilled all of the
                     specifications that I had for the project. The project actually went through multiple iterations with the first
                     version being built using Angular and the second version being built using a more simple, lightweight frontend and much of the functionality
                     abstracted into a more robust php backend. The current site includes a global search.
