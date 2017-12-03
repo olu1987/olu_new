@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857d9b03-54d3-4ec4-b334-cd1f2d6420b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/application.css" afterPath="$PROJECT_DIR$/build/css/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/application.css.map" afterPath="$PROJECT_DIR$/build/css/application.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_headings.scss" afterPath="$PROJECT_DIR$/sass/base/_headings.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vantworks.php" afterPath="$PROJECT_DIR$/vantworks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lnt.php" afterPath="$PROJECT_DIR$/lnt.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lnt.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lnt.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lnt.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            <state relative-caret-position="324">
+              <caret line="118" column="16" lean-forward="false" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
               <folding>
                 <element signature="e#1976#1982#0#HTML" expanded="true" />
               </folding>
@@ -92,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_headings.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_headings.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/base/_headings.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="129">
@@ -177,7 +174,6 @@
         <option value="$PROJECT_DIR$/tvptvguide.php" />
         <option value="$PROJECT_DIR$/sass/state/_media-queries.scss" />
         <option value="$PROJECT_DIR$/sass/base/_utilities.scss" />
-        <option value="$PROJECT_DIR$/lnt.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/sass/base/_overrides.scss" />
@@ -185,6 +181,7 @@
         <option value="$PROJECT_DIR$/sass/layout/_page.scss" />
         <option value="$PROJECT_DIR$/vantworks.php" />
         <option value="$PROJECT_DIR$/sass/base/_headings.scss" />
+        <option value="$PROJECT_DIR$/lnt.php" />
       </list>
     </option>
   </component>
@@ -455,12 +452,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511007851483</updated>
       <workItem from="1511007853509" duration="56171000" />
-      <workItem from="1511701914953" duration="102014000" />
+      <workItem from="1511701914953" duration="102080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158185000" />
+    <option name="totallyTimeSpent" value="158251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -817,16 +814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lnt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-          <folding>
-            <element signature="e#1976#1982#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
@@ -888,6 +875,16 @@
         <state relative-caret-position="129">
           <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lnt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="118" column="16" lean-forward="false" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
+          <folding>
+            <element signature="e#1976#1982#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

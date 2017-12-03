@@ -89,20 +89,6 @@
                     <li> - paypal api</li>
                 </ul>
             </div>
-            <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
-                <img class="img-responsive" src="img/leshia-top-text.png"/>
-                <div class="title-wrap">
-
-                    <h3>
-                        <small class="warning-color">next project</small><br>
-                        leshia Thomas<br>
-                        <small>
-                            digital designer portfolio website
-                        </small>
-                    </h3>
-
-                </div>
-            </a>
             <a data-link="tvptvguide.php" class="tile col-md-4 col-sm-6 tvplayer fade-out-link">
                 <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
                 <div class="title-wrap">
@@ -112,6 +98,20 @@
                         Tvplayer<br>
                         <small>
                             lazy-loading tvguide
+                        </small>
+                    </h3>
+
+                </div>
+            </a>
+            <a data-link="leshiathomas.php" class="tile col-md-4 col-sm-6 leshia fade-out-link">
+                <img class="img-responsive" src="img/leshia-top-text.png"/>
+                <div class="title-wrap">
+
+                    <h3>
+                        <small class="warning-color">next project</small><br>
+                        leshia Thomas<br>
+                        <small>
+                            digital designer portfolio website
                         </small>
                     </h3>
 
