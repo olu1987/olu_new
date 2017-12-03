@@ -8,8 +8,7 @@
     <div class="container grid-images vantworks-bg">
         <div class="row pt-20">
             <div class="col-md-8 col-md-offset-2 text-center vantworks-header">
-                <img class="img-responsive vantworks-logo" src="img/vantworks-logo.png"/>
-                <h1 class="task-main-header">Vantworks</h1>
+                <img class="img-responsive" src="img/vantworks-logo-new.png"/>
             </div>
         </div>
         <div class="row mb-50 text-center">
