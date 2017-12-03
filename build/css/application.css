@@ -182,6 +182,9 @@
   margin: 0 auto;
   display: block; }
 
+.no-padding-top {
+  padding-top: 0 !important; }
+
 html, body {
   height: 100%; }
 
@@ -765,7 +768,9 @@ a:hover, a:focus {
       left: 0;
       right: 0;
       text-align: center;
-      padding-top: 15px; } }
+      padding-top: 15px; }
+  .promo-lnt .col-md-5 {
+    padding-top: 30px; } }
 
 @media (max-width: 1040px) {
   .home .header, .home .about {

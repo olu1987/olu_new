@@ -22,10 +22,10 @@
         </div>
     </div>
     <div class="row promo-lnt">
-        <div class="col-md-5 col-md-offset-1">
+        <div class="col-md-5 col-sm-6 col-md-offset-1">
             <img class="img-responsive" src="img/lnt-two.jpg"/>
         </div>
-        <div class="col-md-5">
+        <div class="col-md-5 col-sm-6">
             <img class="img-responsive" src="img/lnt-three.jpg"/>
         </div>
     </div>
@@ -54,10 +54,10 @@
         </div>
     </div>
     <div class="row pt-30 pb-50 promo-lnt">
-        <div class="col-md-5 col-md-offset-1">
+        <div class="col-md-5 col-md-offset-1 col-sm-6 no-padding-top">
             <img class="img-responsive" src="img/lnt-five.jpg"/>
         </div>
-        <div class="col-md-5">
+        <div class="col-md-5 col-sm-6">
             <img class="img-responsive" src="img/lnt-six.jpg"/>
         </div>
     </div>

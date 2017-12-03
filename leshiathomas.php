@@ -32,7 +32,7 @@
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the approach</h2>
                 <p>
-                    Leshia gave clear designs and direction, and working with her being the designer and
+                    From the start Leshia gave clear creative direction, and working with her being the designer and
                     product owner, we were able to quickly deliver a very attractive looking portfolio website that would
                     showcase her work and talent while having a great user experience. Unique features on this project include
                     the use of parallax.js, a lightweight jquery plugin for parallax scrolling on background images.
