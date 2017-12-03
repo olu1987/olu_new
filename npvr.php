@@ -15,8 +15,10 @@ $body = 'not-home tvp'
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="text-uppercase">the challenge</h2>
                 <p>
-                    TVPlayer&copy; ltd, a growing company in the online TV streaming sector, required a new TV guide for their web platform due to their current guide being slow in terms of load time, and not
-                    feature rich. I was approached by the the team at TVPlayer in March 2017 about this project and it was delivered in April of the same year.
+                    TVPlayer required the building of a Network Personal Video Recording (NPVR), system on their online platform.
+                    I was asked to build the front end for this project in August 2017. The project was delivered in October of the
+                    same year and is currently in beta testing hence it is not viewable for the public. As soon as it is I will include a link
+                    to my work.
                 </p>
             </div>
         </div>
@@ -39,11 +41,14 @@ $body = 'not-home tvp'
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the approach</h2>
                 <p>
-                    The major issue with the old TV guide on the TVPlayer web platform was that all of the 100+ channels were being loaded immediately
-                    to the page which was heavily affecting the load time. Also there wasn't any way of moving forward in days even though the EPG
-                    (Electronic Program Guide) data for the guide included a weeks worth of programming. So using Ajax requests, I built a simple system that would load chunks of
-                    channels into the page as a user scrolled. I also built the php - Zend framework  backend and ui for a day navigation that would allow the user
-                    to skip to other days of the week, and I added a timeline to the scrolling section of the TV guide to improve usability.
+                    There were major changes to be made on the web platform and new components to be built on the frontend.
+                    Working with the design team, I built a page where each user would manage their recordings. This page allowed users
+                    to view all recorded episodes of a series, view scheduled episodes, delete episodes etc. Also the user would need to be able
+                    to record content from the existing On Demand page. While adding this ability to the On Demand section I took the
+                    opportunity to rebuild the UI organising the episodes properly by series. This was the first time TVPlayer have had
+                    a UI as intuitive and modern as this for their On Demand content. Most of the functionality was built using good old vanilla javascript and
+                    a sprinkling of JQuery for things like modals and carousels. There were also a couple of static pages that I built
+                    explaining what the service was and how to use it.
                 </p>
             </div>
         </div>
@@ -56,11 +61,9 @@ $body = 'not-home tvp'
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the results</h2>
                 <p>
-                    You can review the results for yourself at <a class="gold-color" target="_blank" href="http://tvplayer.com/tvguide">www.tvplayer.com/tvguide</a>. The team at
-                    TVPlayer were incredibly happy with the final results of the project, and it is widely regarded as not only
-                    the best TV guide they have ever had on their web platform, but also potentially the best TV guide on any of their platforms
-                    including their mobile and TV apps. I have a great relationship with the team at TVPlayer and I hope to work with
-                    them again in the future.
+                    As I have said, the results can't be viewed yet as the project is still in beta testing but feedback on the project
+                    from the team at TVPlayer and beta users has been very good so far. I look forward to seeing me work out in the wild getting used
+                    by thousands of people to record content online.
                 </p>
             </div>
         </div>
