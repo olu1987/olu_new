@@ -1,15 +1,15 @@
-<?php $title = 'TVPlayer | React js tvguide';
-      $spinnerLogo = 'img/tvp-logo-new-md.png';
-       $body = 'not-home tvp'
+<?php $title = 'Simplestream | React js TV guide and Live TV page';
+$spinnerLogo = 'img/simplestream-logo.png';
+$body = 'not-home'
 ?>
 <?php include 'header.php'; ?>
 
     <!-- Add your site or application content here -->
-    <div class="container  tvp-red-bg">
+    <div class="container  simplestream-blue-bg">
         <div class="row pt-20">
             <div class="col-md-6 col-md-offset-3 tvp-header text-center">
-                <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
-                <a target="_blank" class="site-link" href="https://tvplayer.com/tvguide">www.tvplayer.com/tvguide</a>
+                <img class="img-responsive" src="img/simplestream-logo.png"/>
+                <a target="_blank" class="site-link" href="https://simplestream.com">www.simplestream.com</a>
             </div>
         </div>
         <div class="row mb-50 text-center">
@@ -21,14 +21,14 @@
                 </p>
             </div>
         </div>
-        <div class="row">
+        <div class="row ">
             <div class="col-md-10 col-md-offset-1">
-                <img class="img-responsive center" src="img/tvp-tvguide-image.jpg"/>
+                <img class="img-responsive center" src="img/simplestream-tvguide.jpg"/>
             </div>
         </div>
     </div>
     <div class="container ">
-        <div class="row pt-50 tvp-solid-bg">
+        <div class="row pt-50 simplestream-solid-bg">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the approach</h2>
                 <p>
@@ -40,7 +40,12 @@
                 </p>
             </div>
         </div>
-        <div class="row task-description tvp-solid-bg">
+        <div class="row simplestream-solid-bg">
+            <div class="col-md-10 col-md-offset-1">
+                <img class="img-responsive center mt-30" src="img/simplestream-live.jpg"/>
+            </div>
+        </div>
+        <div class="row task-description simplestream-solid-bg">
             <div class="col-md-10 col-md-offset-1">
                 <h2 class="text-uppercase">the results</h2>
                 <p>
@@ -54,7 +59,7 @@
         </div>
         <div class="row portfolio">
             <div class="col-md-12">
-                <div class="tile col-md-4 col-sm-12 tech text-uppercase tvp-solid-bg">
+                <div class="tile col-md-4 col-sm-12 tech text-uppercase simplestream-solid-bg">
                     <h1>Technology</h1><br>
                     <ul class="list-inline">
                         <li> - htm5 -</li>

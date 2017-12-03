@@ -89,6 +89,39 @@
         </div>
             <div id="portfolio" class="row portfolio">
                 <div class="col-md-12">
+                    <a data-link="simplestream-react-tvguide.php" class="tile col-md-4 col-sm-6 ss fade-out-link">
+                        <img class="img-responsive" src="img/simplestream-logo.png"/>
+                        <div class="title-wrap">
+                            <h3>simplestream<br>
+                                <small>
+                                    react js tvguide and live page
+                                </small>
+                            </h3>
+
+                        </div>
+                    </a>
+                    <a data-link="npvr.php" class="tile col-md-4 col-sm-6 tvplayer three fade-out-link">
+                        <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
+                        <div class="title-wrap">
+                            <h3>Tvplayer<br>
+                                <small>
+                                    npvr frontend
+                                </small>
+                            </h3>
+
+                        </div>
+                    </a>
+                    <a data-link="tvp-react-tvguide.php" class="tile col-md-4 col-sm-6 tvplayer four fade-out-link">
+                        <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
+                        <div class="title-wrap">
+                            <h3>Tvplayer<br>
+                                <small>
+                                    react js tvguide
+                                </small>
+                            </h3>
+
+                        </div>
+                    </a>
                     <a data-link="lnt.php" class="tile col-md-4 col-sm-6 lnt fade-out-link">
                         <img class="img-responsive" src="img/lnt-text.png"/>
                         <div class="title-wrap">

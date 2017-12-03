@@ -1,6 +1,6 @@
-<?php $title = 'TVPlayer | React js tvguide';
-      $spinnerLogo = 'img/tvp-logo-new-md.png';
-       $body = 'not-home tvp'
+<?php $title = 'TVPlayer | React js TV guide';
+$spinnerLogo = 'img/tvp-logo-new-md.png';
+$body = 'not-home tvp'
 ?>
 <?php include 'header.php'; ?>
 
@@ -9,7 +9,6 @@
         <div class="row pt-20">
             <div class="col-md-6 col-md-offset-3 tvp-header text-center">
                 <img class="img-responsive" src="img/tvp-logo-new-md.png"/>
-                <a target="_blank" class="site-link" href="https://tvplayer.com/tvguide">www.tvplayer.com/tvguide</a>
             </div>
         </div>
         <div class="row mb-50 text-center">
@@ -23,7 +22,7 @@
         </div>
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                <img class="img-responsive center" src="img/tvp-tvguide-image.jpg"/>
+                <img class="img-responsive center" src="img/tvp-react-tvguide.jpg"/>
             </div>
         </div>
     </div>
@@ -38,6 +37,11 @@
                     channels into the page as a user scrolled. I also built the php - Zend framework  backend and ui for a day navigation that would allow the user
                     to skip to other days of the week, and I added a timeline to the scrolling section of the TV guide to improve usability.
                 </p>
+            </div>
+        </div>
+        <div class="row tvp-solid-bg">
+            <div class="col-md-10 col-md-offset-1">
+                <img class="img-responsive center" src="img/tvguide-modal.jpg"/>
             </div>
         </div>
         <div class="row task-description tvp-solid-bg">

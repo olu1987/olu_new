@@ -86,6 +86,25 @@
   color: #ffffff;
 }
 
+.simplestream-blue-bg{
+  background: rgba(143,2,34,1);
+  background: -moz-linear-gradient(top, rgba(143,2,34,1) 0%, rgba(255,255,255,1) 0%, rgba(24,100,158,1) 59%, rgba(24,100,158,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(143,2,34,1)), color-stop(0%, rgba(255,255,255,1)), color-stop(59%, rgba(24,100,158,1)), color-stop(100%, rgba(24,100,158,1)));
+  background: -webkit-linear-gradient(top, rgba(143,2,34,1) 0%, rgba(255,255,255,1) 0%, rgba(24,100,158,1) 59%, rgba(24,100,158,1) 100%);
+  background: -o-linear-gradient(top, rgba(143,2,34,1) 0%, rgba(255,255,255,1) 0%, rgba(24,100,158,1) 59%, rgba(24,100,158,1) 100%);
+  background: -ms-linear-gradient(top, rgba(143,2,34,1) 0%, rgba(255,255,255,1) 0%, rgba(24,100,158,1) 59%, rgba(24,100,158,1) 100%);
+  background: linear-gradient(to bottom, rgba(143,2,34,1) 0%, rgba(255,255,255,1) 0%, rgba(24,100,158,1) 59%, rgba(24,100,158,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8f0222', endColorstr='#18649e', GradientType=0 );
+}
+
+.simplestream-solid-bg{
+  background: #18649E;
+}
+
+.simplestream-blue-bg, .simplestream-solid-bg{
+  color:#fff;
+}
+
 .tvp-red-bg, .tvp-solid-bg{
   color: #ffffff;
   p,h2{
