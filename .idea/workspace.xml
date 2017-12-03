@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="857d9b03-54d3-4ec4-b334-cd1f2d6420b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/covervidz.php" afterPath="$PROJECT_DIR$/covervidz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leshiathomas.php" afterPath="$PROJECT_DIR$/leshiathomas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lnt.php" afterPath="$PROJECT_DIR$/lnt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/modules/_grid.scss" afterPath="$PROJECT_DIR$/sass/modules/_grid.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvp.php" afterPath="$PROJECT_DIR$/tvp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvptvguide.php" afterPath="$PROJECT_DIR$/tvptvguide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vantworks.php" afterPath="$PROJECT_DIR$/vantworks.php" />
-    </list>
+    <list default="true" id="857d9b03-54d3-4ec4-b334-cd1f2d6420b4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,11 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_grid.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_grid.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/modules/_grid.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="83" column="20" lean-forward="true" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -80,16 +82,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="205">
               <caret line="145" column="39" lean-forward="true" selection-start-line="145" selection-start-column="39" selection-end-line="145" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -144,6 +136,7 @@
       <find>ecc</find>
       <find>laz</find>
       <find>navbutt</find>
+      <find>tect</find>
     </findStrings>
     <replaceStrings>
       <replace>col-xs-2</replace>
@@ -178,7 +171,6 @@
         <option value="$PROJECT_DIR$/sass/base/_overrides.scss" />
         <option value="$PROJECT_DIR$/sass/layout/_page.scss" />
         <option value="$PROJECT_DIR$/sass/base/_headings.scss" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/send_form_email.php" />
         <option value="$PROJECT_DIR$/sass/modules/_page-components.scss" />
         <option value="$PROJECT_DIR$/tvp.php" />
@@ -188,6 +180,7 @@
         <option value="$PROJECT_DIR$/leshiathomas.php" />
         <option value="$PROJECT_DIR$/covervidz.php" />
         <option value="$PROJECT_DIR$/sass/modules/_grid.scss" />
+        <option value="$PROJECT_DIR$/header.php" />
       </list>
     </option>
   </component>
@@ -458,12 +451,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511007851483</updated>
       <workItem from="1511007853509" duration="56171000" />
-      <workItem from="1511701914953" duration="104899000" />
+      <workItem from="1511701914953" duration="105017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161070000" />
+    <option name="totallyTimeSpent" value="161188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -798,16 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="28" column="66" lean-forward="false" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -886,6 +869,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="83" column="20" lean-forward="true" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
           <folding />
         </state>
       </provider>
