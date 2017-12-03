@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Olu Meduoye | <?= $title ?></title>
-    <meta name="description" content="Design projects by Leshia Thomas. All enquiries to leshia.thomas@live.co.uk">
+    <meta name="description" content="Olu Meduoye is a web developer from London. All enquiries to olu@claymoreminds.com">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

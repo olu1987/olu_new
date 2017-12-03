@@ -63,12 +63,14 @@
             <div class="col-sm-6 lower text-uppercase text-right backend">
                 <h2>other skills</h2>
                  <ul class="list">
+                     <li class="list-item">cross-browser solutions</li>
                      <li class="list-item">php</li>
                      <li class="list-item">zend</li>
                      <li class="list-item">mysql</li>
                      <li class="list-item">photoshop</li>
                      <li class="list-item">git</li>
                      <li class="list-item">agile methodologies</li>
+                     <li class="list-item">team leadership</li>
                  </ul>
             </div>
         </div>
