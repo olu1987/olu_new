@@ -32,7 +32,7 @@ $body = 'not-home tvp'
                 <img class="img-responsive center" src="img/recordings-page-2.jpg"/>
             </div>
             <div class="col-md-4">
-                <img class="img-responsive center" src="img/recordings-page-3.jpg"/>
+                <img class="img-responsive center lower-small-image" src="img/recordings-page-3.jpg"/>
             </div>
         </div>
     </div>
