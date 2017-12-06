@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857d9b03-54d3-4ec4-b334-cd1f2d6420b4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/application.css" afterPath="$PROJECT_DIR$/build/css/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/application.css.map" afterPath="$PROJECT_DIR$/build/css/application.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/covervidz.php" afterPath="$PROJECT_DIR$/covervidz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leshiathomas.php" afterPath="$PROJECT_DIR$/leshiathomas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lnt.php" afterPath="$PROJECT_DIR$/lnt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/npvr.php" afterPath="$PROJECT_DIR$/npvr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/modules/_page-components.scss" afterPath="$PROJECT_DIR$/sass/modules/_page-components.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplestream-react-tvguide.php" afterPath="$PROJECT_DIR$/simplestream-react-tvguide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvp-react-tvguide.php" afterPath="$PROJECT_DIR$/tvp-react-tvguide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvp.php" afterPath="$PROJECT_DIR$/tvp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tvptvguide.php" afterPath="$PROJECT_DIR$/tvptvguide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vantworks.php" afterPath="$PROJECT_DIR$/vantworks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/send_form_email.php" afterPath="$PROJECT_DIR$/send_form_email.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +36,8 @@
       <file leaf-file-name="_page-components.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/modules/_page-components.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="229" column="35" lean-forward="false" selection-start-line="229" selection-start-column="35" selection-end-line="229" selection-end-column="35" />
+            <state relative-caret-position="136">
+              <caret line="169" column="49" lean-forward="false" selection-start-line="169" selection-start-column="49" selection-end-line="169" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -51,18 +46,28 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="134" column="24" lean-forward="true" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="55" lean-forward="true" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="simplestream-react-tvguide.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simplestream-react-tvguide.php">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="75" column="46" lean-forward="true" selection-start-line="75" selection-start-column="46" selection-end-line="75" selection-end-column="46" />
+            <state relative-caret-position="17">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="send_form_email.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/send_form_email.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -73,16 +78,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="143">
               <caret line="54" column="46" lean-forward="false" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tvp-react-tvguide.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tvp-react-tvguide.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="103" column="40" lean-forward="false" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -148,6 +143,7 @@
       <find>laz</find>
       <find>navbutt</find>
       <find>tect</find>
+      <find>promo</find>
     </findStrings>
     <replaceStrings>
       <replace>col-xs-2</replace>
@@ -175,15 +171,12 @@
         <option value="$PROJECT_DIR$/sass/base/_variables.scss" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/sass/modules/_text.scss" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/sass/state/_media-queries.scss" />
         <option value="$PROJECT_DIR$/sass/base/_utilities.scss" />
         <option value="$PROJECT_DIR$/sass/base/_overrides.scss" />
         <option value="$PROJECT_DIR$/sass/base/_headings.scss" />
-        <option value="$PROJECT_DIR$/send_form_email.php" />
         <option value="$PROJECT_DIR$/sass/layout/_page.scss" />
         <option value="$PROJECT_DIR$/sass/modules/_grid.scss" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/simplestream-react-tvguide.php" />
         <option value="$PROJECT_DIR$/tvp-react-tvguide.php" />
@@ -194,6 +187,9 @@
         <option value="$PROJECT_DIR$/vantworks.php" />
         <option value="$PROJECT_DIR$/covervidz.php" />
         <option value="$PROJECT_DIR$/npvr.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/send_form_email.php" />
         <option value="$PROJECT_DIR$/sass/modules/_page-components.scss" />
       </list>
     </option>
@@ -356,6 +352,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olu_new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olu_new" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="build" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -466,12 +476,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511007851483</updated>
       <workItem from="1511007853509" duration="56171000" />
-      <workItem from="1511701914953" duration="120221000" />
+      <workItem from="1511701914953" duration="121498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176392000" />
+    <option name="totallyTimeSpent" value="177669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -750,14 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/state/_media-queries.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
@@ -790,14 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/send_form_email.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="101" column="40" lean-forward="false" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/layout/_page.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -818,14 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="134" column="24" lean-forward="true" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -902,10 +888,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="55" lean-forward="true" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_form_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sass/modules/_page-components.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="229" column="35" lean-forward="false" selection-start-line="229" selection-start-column="35" selection-end-line="229" selection-end-column="35" />
+        <state relative-caret-position="136">
+          <caret line="169" column="49" lean-forward="false" selection-start-line="169" selection-start-column="49" selection-end-line="169" selection-end-column="49" />
           <folding />
         </state>
       </provider>

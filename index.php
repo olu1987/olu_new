@@ -1,6 +1,6 @@
 <?php $title = 'Web Developer from London';
       $body = 'home';
-      $spinnerLogo = 'img/olu-meduoye-logo.png';
+      $spinnerLogo = 'img/om-favicon-img.png';
 ?>
 <?php include 'header.php'; ?>
 
