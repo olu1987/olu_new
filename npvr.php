@@ -62,7 +62,7 @@ $body = 'not-home tvp'
                 <h2 class="text-uppercase">the results</h2>
                 <p>
                     As I have said, the results can't be viewed yet as the project is still in beta testing but feedback on the project
-                    from the team at TVPlayer and beta users has been very good so far. I look forward to seeing me work out in the wild getting used
+                    from the team at TVPlayer and beta users has been very good so far. I look forward to seeing my work out in the wild getting used
                     by thousands of people to record content online.
                 </p>
             </div>
