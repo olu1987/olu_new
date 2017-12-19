@@ -772,9 +772,13 @@ a:hover, a:focus {
     display: block;
     font-size: 23px; }
 
-@media (max-width: 1520px) {
+@media (max-width: 1700px) {
   .container {
     width: 100%; } }
+
+@media (min-width: 1700px) {
+  .container {
+    width: 1350px; } }
 
 @media (min-width: 767px) {
   .bodhan-devices {
