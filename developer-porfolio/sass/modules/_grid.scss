@@ -1,0 +1,117 @@
+.portfolio{
+  .col-md-12{
+    padding: 0;
+  }
+}
+.tile{
+  height: 340px;
+  padding: 0;
+  overflow: hidden;
+  opacity: 1;
+  transition: all ease-in-out 300ms;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:hover{
+    opacity: 1;
+    .title-wrap{
+      opacity: 1;
+    }
+  }
+  .title-wrap{
+    position: absolute;
+    top: 0;
+    z-index: 21;
+    color: #444;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.84);;
+    width: 100%;
+    height: 100%;
+    transition: all ease-in-out 200ms;
+    text-align: center;
+    opacity: 0;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  img{
+    width:50%;
+  }
+
+  &.vantworks{
+    background: #d2c2c2;
+    img{
+      width: 40px;
+      display: inline-block;
+      margin-top: -18px;
+    }
+  }
+
+  &.lnt{
+    background: #cbd7df;
+  }
+
+  &.tvplayer{
+    background: #fdf5d0;
+    &.two{
+      background: #faaaac;
+    }
+    &.three{
+      background: #baefba;
+    }
+    &.four{
+      background: #b9b5a0;
+    }
+    img{
+      margin: 0 auto;
+      width:35%;
+    }
+  }
+
+  &.ss{
+    background: #ffffff;
+    img{
+
+    }
+  }
+
+  &.leshia{
+    background: #f5d4d5;
+    img{
+      margin: 5px auto;
+
+    }
+  }
+  &.covervidz{
+    background: #cbafdd;
+    img{
+      border-radius: 10px;
+    }
+  }
+  &.tech{
+    cursor: default;
+    display: block;
+    padding-top: 80px;
+     h1{
+       padding-left: 15px;
+     }
+
+    ul{
+      padding: 15px;
+      li{
+        width:100px;
+      }
+    }
+  }
+}
+
+.leshia.grid-images .row{
+  margin-top: 0;
+}
+
+

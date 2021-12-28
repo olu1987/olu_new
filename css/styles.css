@@ -1,0 +1,118 @@
+body {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  padding: 0 50px;
+  width: calc(100% - 100px);
+  position: fixed;
+  top: 0;
+  background: #444;
+  color: #fff;
+}
+
+.page .social-links {
+  margin-left: auto;
+  padding-top: 10px;
+}
+
+.page .social-links a {
+  color: unset;
+}
+
+.page .social-links a svg {
+  height: 28px;
+  width: 28px;
+  padding: 0 2px;
+}
+
+.header {
+  height: 100vh;
+  background-image: url('../assets/img/header-image.jpg');
+  background-size: cover;
+}
+
+.about {
+  padding: 50px;
+}
+
+.music {
+  display: flex;
+}
+
+.music .tile {
+  width: 33.33333%;
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  color: #fff;
+}
+
+.stream-links {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 10px;
+  fill: currentColor;
+  stroke: currentColor;
+  display: flex;
+  position: absolute;
+  transition: ease-in-out all 0.3s;
+  opacity: 0;
+}
+
+.tile .stream-links svg, .tile .stream-links img {
+  width: 30px;
+  height: 30px;
+  padding: 0 5px;
+  fill: currentColor;
+  stroke: currentColor;
+  cursor: pointer;
+}
+
+.tile .stream-links a {
+  color: currentColor;
+}
+
+.tile:hover .stream-links {
+  opacity: 1;
+}
+
+.tile .stream-links svg.fa-youtube {
+  height: 50px;
+  width: 50px;
+  margin-top: -10px;
+}
+
+.music .tile.poc {
+  background-image: url('../assets/img/poc-cover.png');
+}
+
+.music .tile.higher {
+  background-image: url('../assets/img/higher-ways.png');
+}
+
+.music .tile.label {
+  border: 1px solid #ccc;
+  height: 598px;
+  margin-top: 1px;
+  color: unset;
+}
+
+.footer {
+  padding: 50px;
+  display: flex;
+}
+
+.footer .email {
+  margin-left: auto;
+}

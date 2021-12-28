@@ -1,0 +1,88 @@
+//Responsive styles
+
+@media(max-width: 1700px){
+  .container{
+    width:100%;
+  }
+}
+
+@media(min-width: 1700px){
+  .container{
+    width:1350px;
+  }
+}
+@media(min-width: 767px){
+  .bodhan-devices{
+    margin-left: -23px;
+  }
+  .covervidz-devices{
+    margin-left: -42px;
+  }
+  .lnt-devices{
+    margin-left: 50px;
+  }
+}
+
+@media(max-width: 767px){
+  .nav-toggle.active {
+    right: 255px;
+  }
+  .grid-images{
+    .col-md-6,.col-md-3{
+      padding: 0;
+      & > div{
+        margin: 0;
+      }
+    }
+  }
+
+  .header h1{
+    font-size: 50px;
+    text-align: center;
+  }
+
+  .skills-wrap{
+    height: auto;
+      .skills .col-sm-6{
+        position: relative;
+        top:0;
+        left:0;
+        right:0;
+        text-align: center;
+        padding-top: 15px;
+      }
+  }
+
+  .promo-lnt{
+    .col-md-5{
+      padding-top: 30px;
+    }
+  }
+  .lower-small-image{
+    padding-top: 30px;
+  }
+}
+
+@media(max-width: 1040px){
+  .home{
+    .header,.about{
+      background-image: url(../../img/olu-header.jpg) ;
+      background-position: center center !important;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    .about{
+      background-image: url(../../img/sparks.jpg) ;
+    }
+  }
+}
+
+@media(max-width: 991px){
+  .row.footer{
+    padding: 0;
+    text-align: center;
+    ul{
+      text-align: center;
+    }
+  }
+}

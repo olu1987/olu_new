@@ -1,0 +1,14 @@
+html, body{
+  height: 100%;
+}
+
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+a{
+  &:hover,&:focus{
+    text-decoration: none !important;
+  }
+}
+

@@ -1,0 +1,51 @@
+.header{
+  min-height: 660px;
+  padding-top: 200px;
+  position: relative;
+  h1{
+    font-size: 102px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: #ffffff;
+    position: absolute;
+    z-index: 20;
+  }
+
+  p{
+    font-size: 17px;
+    color:#ffffff;
+    position: absolute;
+    z-index: 20;
+    bottom: 240px;
+    left: 30px;
+  }
+
+  img.logo{
+    width:70px;
+  }
+  .overlay{
+    position: absolute;
+    height: 100%;
+    width:100%;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.29);
+    top:0;
+  }
+}
+
+.tvp-header{
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+.lnt-header-logo{
+  margin-top: 100px;
+}
+
+.leshia-header-text{
+  padding: 100px 0 0;
+}
+
+.vantworks-header{
+  margin-top: 70px;
+}
