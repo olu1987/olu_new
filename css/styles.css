@@ -47,7 +47,7 @@ body {
   height: 100vh;
   background-image: url('../assets/img/header-image.jpg');
   background-size: cover;
-  background-size: center;
+  background-position: center;
 }
 
 .about {
@@ -147,6 +147,12 @@ body {
 @media (max-width: 1200px) { 
   .music .tile {
     width: calc(50% - 1px);
+  }
+
+  .tile .stream-links {
+    opacity: 1;
+    justify-content: center;
+    padding: 40px 0;
   }
  }
 
