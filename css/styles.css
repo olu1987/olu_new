@@ -10,23 +10,35 @@ body {
   width: calc(100% - 100px);
   position: fixed;
   top: 0;
-  background: #444;
+  background: rgba(68, 68, 68, 0.95);
   color: #fff;
 }
 
+.nav h2 {
+  font-weight: 400;
+}
+
 .page .social-links {
+  display: flex;
   margin-left: auto;
-  padding-top: 10px;
 }
 
 .page .social-links a {
+  display: flex;
   color: unset;
+  height: 25px;
+  width: 25px;
 }
 
-.page .social-links a svg {
-  height: 28px;
-  width: 28px;
-  padding: 0 2px;
+.page .social-links a {
+  height: 25px;
+  width: 25px;
+  padding: 0 3px;
+}
+
+.page .social-links a svg, .page .social-links a img {
+  height: 100%;
+  width: 100%;
 }
 
 .header {
@@ -111,6 +123,16 @@ body {
 .footer {
   padding: 50px;
   display: flex;
+}
+
+.footer h2, .footer h3 {
+  margin: 0 0 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.footer h2 {
+  margin-left: 0;
 }
 
 .footer .email {
