@@ -10,12 +10,14 @@ body {
   width: calc(100% - 100px);
   position: fixed;
   top: 0;
-  background: rgba(68, 68, 68, 0.95);
-  color: #fff;
+  background: rgba(0,0,0,0.7);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+  color: #f5f5f7;
 }
 
 .nav h2 {
-  font-weight: 400;
+  font-weight: 300;
 }
 
 .page .social-links {
@@ -33,7 +35,7 @@ body {
 .page .social-links a {
   height: 20px;
   width: 20px;
-  padding: 0 3px;
+  padding: 0 5px;
 }
 
 .page .social-links a svg, .page .social-links a img {
