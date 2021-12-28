@@ -31,8 +31,8 @@ body {
 }
 
 .page .social-links a {
-  height: 25px;
-  width: 25px;
+  height: 20px;
+  width: 20px;
   padding: 0 3px;
 }
 
@@ -45,6 +45,7 @@ body {
   height: 100vh;
   background-image: url('../assets/img/header-image.jpg');
   background-size: cover;
+  background-size: center;
 }
 
 .about {
@@ -53,10 +54,11 @@ body {
 
 .music {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .music .tile {
-  width: 33.33333%;
+  width: calc(33.333% - 1px);
   height: 600px;
   background-size: cover;
   background-position: center;
@@ -106,7 +108,8 @@ body {
 }
 
 .music .tile.poc {
-  background-image: url('../assets/img/poc-cover.png');
+  background-image: url('../assets/img/poc-edited.jpg');
+  background-position: center;
 }
 
 .music .tile.higher {
@@ -138,3 +141,25 @@ body {
 .footer .email {
   margin-left: auto;
 }
+
+@media (max-width: 1200px) { 
+  .music .tile {
+    width: calc(50% - 1px);
+  }
+ }
+
+ @media (max-width: 767px) { 
+  .music .tile {
+    width: 100%;
+  }
+
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footer .email, .footer .social-links {
+    margin: 5px 0;
+  }
+ }
