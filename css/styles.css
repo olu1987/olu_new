@@ -109,8 +109,18 @@ body {
   margin-top: -10px;
 }
 
+.music .tile.ssog {
+  background-image: url('../assets/img/ssog-tile.png');
+  background-position: center;
+}
+
 .music .tile.poc {
   background-image: url('../assets/img/poc-edited.jpg');
+  background-position: center;
+}
+
+.music .tile.room {
+  background-image: url('../assets/img/room.jpg');
   background-position: center;
 }
 
